@@ -1,0 +1,194 @@
+{
+  "AFA": {
+    "enUS": "Alonsus Faol",
+    "frFR": "Alonsus Faol"
+  },
+  "ALO": {
+    "enUS": "Anduin Lothar",
+    "frFR": "Anduin Lothar"
+  },
+  "ANT": {
+    "enUS": "Antonidas",
+    "frFR": "Antonidas"
+  },
+  "APE": {
+    "enUS": "Aiden Perenolde",
+    "frFR": "Aiden Perenolde"
+  },
+  "APR": {
+    "enUS": "Admiral Proudmoore",
+    "frFR": "Amiral Proudmoore"
+  },
+  "ART": {
+    "enUS": "Arthas",
+    "frFR": "Arthas"
+  },
+  "DPR": {
+    "enUS": "Derek Proudmoore",
+    "frFR": "Derek Proudmoore"
+  },
+  "DRE": {
+    "enUS": "Drenden",
+    "frFR": "Drenden"
+  },
+  "DRO": {
+    "enUS": "Drunk Orc",
+    "frFR": "Orc éméché"
+  },
+  "DTR": {
+    "enUS": "Danath Trollbane",
+    "frFR": "Danath Trollbane"
+  },
+  "ECA": {
+    "enUS": "Elven Captain",
+    "frFR": "Capitaine Elfe"
+  },
+  "GGR": {
+    "enUS": "Genn Graymane",
+    "frFR": "Genn Graymane"
+  },
+  "GRU": {
+    "enUS": "Grunt",
+    "frFR": "Grunt"
+  },
+  "GTD": {
+    "enUS": "Gavinrad the Dire",
+    "frFR": "Gavinrad"
+  },
+  "KGU": {
+    "enUS": "Kings Guard",
+    "frFR": "Garde royal"
+  },
+  "KHA": {
+    "enUS": "Khadgar",
+    "frFR": "Khadgar"
+  },
+  "KOG": {
+    "enUS": "Korkron Orge Guard",
+    "frFR": "Korkron Orge Guard"
+  },
+  "KRA": {
+    "enUS": "Krasus",
+    "frFR": "Krasus"
+  },
+  "KSU": {
+    "enUS": "Kael'thas Sunstrider",
+    "frFR": "Kael'thas Sunstrider"
+  },
+  "KTH": {
+    "enUS": "Kel’Thuzad",
+    "frFR": "Kel’Thuzad"
+  },
+  "KWI": {
+    "enUS": "Kurdran Wildhammer",
+    "frFR": "Kurdran Wildhammer"
+  },
+  "LDC": {
+    "enUS": "Lord Darius Crowley",
+    "frFR": "Seigneur Darius Crowley"
+  },
+  "MAA": {
+    "enUS": "Man at Arms",
+    "frFR": "Conscrit"
+  },
+  "MAM": {
+    "enUS": "Mayor Marcus",
+    "frFR": "Bailli Marcus"
+  },
+  "MBL": {
+    "enUS": "Maim Blackhand",
+    "frFR": "Maim Blackhand"
+  },
+  "MBR": {
+    "enUS": "Muradin Bronzebeard",
+    "frFR": "Muradin Bronzebeard"
+  },
+  "MER": {
+    "enUS": "Meryn",
+    "frFR": "Meryn"
+  },
+  "MOD": {
+    "enUS": "Modera",
+    "frFR": "Modera"
+  },
+  "MTS": {
+    "enUS": "Milan the Scribe",
+    "frFR": "Milan le Scribe"
+  },
+  "NTP": {
+    "enUS": "Nobbel the Pious",
+    "frFR": "Nobbel le pieux"
+  },
+  "OCA": {
+    "enUS": "Orc Captain",
+    "frFR": "Capitaine orc"
+  },
+  "ODO": {
+    "enUS": "Orgrim Doomhammer",
+    "frFR": "Orgrim Doomhammer"
+  },
+  "OPI": {
+    "enUS": "Orc Pirate",
+    "frFR": "Pirate orc"
+  },
+  "PEO": {
+    "enUS": "Peon",
+    "frFR": "Peon"
+  },
+  "PRI": {
+    "enUS": "Prisoner",
+    "frFR": "Prisonnier"
+  },
+  "RBL": {
+    "enUS": "Dal’Rend Blackhand",
+    "frFR": "Dal’Rend Blackhand"
+  },
+  "RDE": {
+    "enUS": "Regional Defender",
+    "frFR": "Défenseur régional"
+  },
+  "RET": {
+    "enUS": "Retera",
+    "frFR": "Retera"
+  },
+  "TGO": {
+    "enUS": "Teron Gorefiend",
+    "frFR": "Teron Gorefiend"
+  },
+  "THA": {
+    "enUS": "Tharbek",
+    "frFR": "Tharbek"
+  },
+  "TME": {
+    "enUS": "Terenas Menethil II",
+    "frFR": "Terenas Menethil II"
+  },
+  "TTR": {
+    "enUS": "Thoras Trollbane",
+    "frFR": "Thoras Trollbane"
+  },
+  "TUR": {
+    "enUS": "Turalyon",
+    "frFR": "Turalyon"
+  },
+  "USC": {
+    "enUS": "Utok Scratcher",
+    "frFR": "Utok Scratcher"
+  },
+  "UTL": {
+    "enUS": "Uther Lightbringer",
+    "frFR": "Uther Lightbringer"
+  },
+  "VWR": {
+    "enUS": "Varian Wrynn",
+    "frFR": "Varian Wrynn"
+  },
+  "WIL": {
+    "enUS": "Wilhelm",
+    "frFR": "Wilhelm"
+  },
+  "ZTW": {
+    "enUS": "Zuluhed the Whacked",
+    "frFR": "Zuluhed the Whacked"
+  }
+}

@@ -1,0 +1,3691 @@
+{
+  "RoA_GLOBAL_ARTIFACTS_001": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Alliance Flag",
+    "frFR": "Drapeau de l'Alliance"
+  },
+  "RoA_GLOBAL_ARTIFACTS_002": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Keg of Strong Ale",
+    "frFR": "Fût de bière forte"
+  },
+  "RoA_GLOBAL_ARTIFACTS_003": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Purchase Ale",
+    "frFR": "Acheter de la bière."
+  },
+  "RoA_GLOBAL_ARTIFACTS_004": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Boosts unit combat damage. But intoxicates with Alcohol.",
+    "frFR": "Augmente les dégâts de combat des unités mais provoque une intoxication alcoolique."
+  },
+  "RoA_GLOBAL_ARTIFACTS_005": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Drenches units in alcohol, causing their movement speed to be reduced, attack speed <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage.",
+    "frFR": "Imbibe les unités d'alcool, ce qui réduit leur vitesse de déplacement, augmente leur vitesse d'attaque de <Absk,DataB1,%>% mais leur fait subir <Absk,DataC1,%>% de dégâts supplémentaires."
+  },
+  "RoA_GLOBAL_ARTIFACTS_006": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Amulet of the Tidemother",
+    "frFR": "Amulette de la Mère des Marées"
+  },
+  "RoA_GLOBAL_ARTIFACTS_007": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Amulet of the Tidemother",
+    "frFR": "Amulette de la Mère des Marées"
+  },
+  "RoA_GLOBAL_ARTIFACTS_009": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gospel of St. Thomas",
+    "frFR": "Évangile de St. Thomas"
+  },
+  "RoA_GLOBAL_ARTIFACTS_011": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Prayer",
+    "frFR": "Prière de soins"
+  },
+  "RoA_GLOBAL_ARTIFACTS_012": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Prayer",
+    "frFR": "Prière de soins"
+  },
+  "RoA_GLOBAL_ARTIFACTS_013": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <AGah,DataA1> hit points over <AGah,Dur1> seconds.",
+    "frFR": "Soigne une unité alliée ciblée de <AGah,DataA1> points de vie en <AGah,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_014": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <ABHp,DataA1> hit points over <ABHp,Dur1> seconds.",
+    "frFR": "Soigne une unité alliée ciblée de <ABHp,DataA1> points de vie en <ABHp,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_015": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "frFR": "Marque de l'Hérétique"
+  },
+  "RoA_GLOBAL_ARTIFACTS_016": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "frFR": "Marque de l'Hérétique"
+  },
+  "RoA_GLOBAL_ARTIFACTS_017": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "frFR": "Marque de l'Hérétique"
+  },
+  "RoA_GLOBAL_ARTIFACTS_018": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Mark of the Heretic",
+    "frFR": "Marque de l'Hérétique"
+  },
+  "RoA_GLOBAL_ARTIFACTS_019": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has Mark of the Heretic; it has reduced armor and can be seen by the enemy.",
+    "frFR": "Cette unité porte la Marque de l'Hérétique ; son blindage est réduit et elle est visible par l'ennemi."
+  },
+  "RoA_GLOBAL_ARTIFACTS_020": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Reduces a target enemy unit's armor by <ABMh,DataA1> and gives vision of that unit. |nLasts <ABMh,Dur1> seconds.",
+    "frFR": "Réduit l'armure d'une unité ennemie ciblée de <ABMh,DataA1> et permet de la voir. |nDure <ABMh,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_021": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Reduces a target enemy unit's armor by <ADiF,DataA1> and gives vision of that unit. |nLasts <ADiF,Dur1> seconds.",
+    "frFR": "Réduit l'armure de l'unité ennemie ciblée de <ADiF,DataA1> et permet de la révéler. |nDure <ADiF,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_022": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Reduces a target enemy unit's armor by <AEFA,DataA1> and gives vision of that unit. |nLasts <AEFA,Dur1> seconds.",
+    "frFR": "Réduit l'armure d'une unité ennemie ciblée de <AEFA,DataA1> et permet de la voir. |nDure <AEFA,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_023": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gospel of St. Maksimus",
+    "frFR": "Évangile de St. Maksimus"
+  },
+  "RoA_GLOBAL_ARTIFACTS_025": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Removes all buffs from units in a target area. |n|cffffcc00Deals <AEDS,DataB1> damage to summoned units.|r",
+    "frFR": "Supprime tous les bonus des unités dans une zone ciblée. |n|cffffcc00Inflige <AEDS,DataB1> dégâts aux unités invoquées.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_026": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Removes all buffs from units in a target area. |n|cffffcc00Deals <AsDm,DataB1> damage to summoned units.|r",
+    "frFR": "Supprime tous les bonus des unités dans une zone ciblée. |n|cffffcc00Inflige <AsDm,DataB1> dégâts aux unités invoquées.|r"
+  },
+  "RoA_GLOBAL_ARTIFACTS_027": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases a target friendly unit's damage by <AIDR,DataA1,%>%. |nLasts <AIDR,Dur1> seconds.",
+    "frFR": "Augmente les dégâts d'une unité alliée ciblée de <AIDR,DataA1,%>%. |nDure <AIDR,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_028": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases a target friendly unit's damage by <AEIF,DataA1,%>% and armor by <AEIF,DataB1>. |nLasts <AEIF,Dur1> seconds.",
+    "frFR": "Augmente les dégâts d'une unité alliée ciblée de <AEIF,DataA1,%>% et son armure de <AEIF,DataB1>. |nDure <AEIF,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_029": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases a target friendly unit's damage by <AspI,DataA1,%>% and armor by <AspI,DataB1>. |nLasts <AspI,Dur1> seconds.",
+    "frFR": "Augmente les dégâts d'une unité alliée ciblée de <AspI,DataA1,%>% et son armure de <AspI,DataB1>. |nDure <AspI,Dur1> secondes."
+  },
+  "RoA_GLOBAL_ARTIFACTS_030": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Blessed Armor of Justice",
+    "frFR": "Armure bénie de la justice"
+  },
+  "RoA_GLOBAL_ARTIFACTS_032": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Korkron Armor",
+    "frFR": "Armure Kor'kron"
+  },
+  "RoA_GLOBAL_ARTIFACTS_033": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff8c00Artifact|r|nEnhances the Hero's armor by <AId7,DataA1>.",
+    "frFR": "|cffff8c00Artefact|r|nAméliore l'armure du héros par <AId7,DataA1>."
+  },
+  "RoA_GLOBAL_ARTIFACTS_034": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Golden Key",
+    "frFR": "Clé en or"
+  },
+  "RoA_GLOBAL_ARTIFACTS_035": {
+    "type": "AFTIFACTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "A golden key. Opens nearby door.",
+    "frFR": "Une clé dorée. Ouvre la porte voisine."
+  },
+  "RoA_GLOBAL_BUILDINGS_001": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Mound",
+    "frFR": "Tertre des ogres"
+  },
+  "RoA_GLOBAL_BUILDINGS_002": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Mound",
+    "frFR": "Tertre des ogres"
+  },
+  "RoA_GLOBAL_BUILDINGS_003": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pig Farm",
+    "frFR": "Ferme"
+  },
+  "RoA_GLOBAL_BUILDINGS_004": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Oil Refinery",
+    "frFR": "Raffinerie"
+  },
+  "RoA_GLOBAL_BUILDINGS_005": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Juggernaut",
+    "frFR": "Mastodonte orc"
+  },
+  "RoA_GLOBAL_BUILDINGS_006": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Lumber Mill",
+    "frFR": "Troll Scierie trolle"
+  },
+  "RoA_GLOBAL_BUILDINGS_007": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Lumber Mill",
+    "frFR": "Troll Scierie trolle"
+  },
+  "RoA_GLOBAL_BUILDINGS_008": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Guard Tower",
+    "frFR": "Tour de garde"
+  },
+  "RoA_GLOBAL_BUILDINGS_009": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Lumber Mill",
+    "frFR": "Scierie elfe"
+  },
+  "RoA_GLOBAL_BUILDINGS_010": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Build Elven Lumber Mill",
+    "frFR": "Construire Scierie elfe"
+  },
+  "RoA_GLOBAL_BUILDINGS_011": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The elves offered their superior skills in service to the Alliance, providing more efficient means for processing lumber.|nServes as a drop-off point for harvested lumber.|n|n|cffffcc00Research:|r Lumber Saw Upgrade, Iron Arrows, Elven Ranger Training, Marksmaship, Ranger Scouting, Longbows, Ensnare.",
+    "frFR": "Les elfes ont offert leurs compétences supérieures au service de l'Alliance, fournissant des moyens plus efficaces pour le traitement du bois.|nSert de point de dépôt pour le bois récolté.|n|n|cffffcc00Recherche :|r Amélioration des scies à bois, Flèches de fer, Formation de ranger elfe, Précision, Reconnaissance, Arcs longs, Filets."
+  },
+  "RoA_GLOBAL_BUILDINGS_012": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scouting structure. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry.|n|n|cffffcc00Upgrades to:|r Guard Tower or Cannon Tower.|n|n|cffffcc00Can't attack units.|r",
+    "frFR": "Structure de reconnaissance. Élargit le champ de vision. |n|n|cffffcc00Compétences : |r Sentinelle magique. |n|n|cffffcc00Améliorations : |r Tour de garde ou Tour de canon. |n|n|cffffcc00Ne peut pas attaquer les unités. |r"
+  },
+  "RoA_GLOBAL_BUILDINGS_013": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defensive structure, effective against air units. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry|n|n|cffffcc00Attacks land and air units.|r",
+    "frFR": "Structure défensive, efficace contre les unités aériennes. Élargit les limites de la vue.|n|n|cffffcc00Compétences :|r Sentinelle magique|n|n|cffffcc00Attaque les unités terrestres et aériennes.|r"
+  },
+  "RoA_GLOBAL_BUILDINGS_014": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Powerful defensive structure, effective gatherings of land units. Expands the sight bounds.|n|n|cffffcc00Abilities:|r Magic Sentry.|n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Structure défensive puissante, regroupements efficaces d'unités terrestres. Élargit le champ de vision. |n|n|cffffcc00Compétences : |r Sentinelle magique. |n|n|cffffcc00Attaque les unités terrestres. |r"
+  },
+  "RoA_GLOBAL_BUILDINGS_015": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Tavern",
+    "frFR": "Taverne"
+  },
+  "RoA_GLOBAL_BUILDINGS_019": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Armor Suit",
+    "frFR": "Armure"
+  },
+  "RoA_GLOBAL_BUILDINGS_020": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chest",
+    "frFR": "Coffre"
+  },
+  "RoA_GLOBAL_BUILDINGS_021": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chest",
+    "frFR": "Coffre"
+  },
+  "RoA_GLOBAL_BUILDINGS_022": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "House Ruins",
+    "frFR": "Ruines de maisons"
+  },
+  "RoA_GLOBAL_BUILDINGS_024": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Knight Statue",
+    "frFR": "Statue de chevalier"
+  },
+  "RoA_GLOBAL_BUILDINGS_025": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Knight Statue",
+    "frFR": "Statue de chevalier"
+  },
+  "RoA_GLOBAL_BUILDINGS_026": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Food Supplies",
+    "frFR": "Fournitures alimentaires"
+  },
+  "RoA_GLOBAL_BUILDINGS_027": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Oil Patch",
+    "frFR": "Puit de pétrole"
+  },
+  "RoA_GLOBAL_HEROES_ALO_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow",
+    "frFR": "\nCoup punitif"
+  },
+  "RoA_GLOBAL_HEROES_ALO_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit was hit by Punishing Blow; it will take damage over time and move more slowly.",
+    "frFR": "Cette unité a été touchée par Coup punitif ; elle subira des dégâts au fil du temps et se déplacera plus lentement."
+  },
+  "RoA_GLOBAL_HEROES_ALO_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Punishing Blow - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Coup punitif - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow - [|cffffcc00Level 1|r]",
+    "frFR": "\nCoup punitif - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow - [|cffffcc00Level 2|r]",
+    "frFR": "\nCoup punitif - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Punishing Blow - [|cffffcc00Level 3|r]",
+    "frFR": "\nCoup punitif - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy which deals large initial damage, and then deals damage over time. The pierced unit has its movement speed slowed for a short duration. |n|n|cffffcc00Level 1|r - <ALPb,DataE1> strike damage, <ALPb,DataA1> duration damage. |n|cffffcc00Level 2|r - <ALPb,DataE2> strike damage, <ALPb,DataA2> duration damage. |n|cffffcc00Level 3|r - <ALPb,DataE3> strike damage, <ALPb,DataA3> duration damage.",
+    "frFR": "Lothar frappe l'ennemi avec son épée, infligeant d'importants dégâts initiaux, puis des dégâts sur la durée. La vitesse de déplacement de l'unité touchée est réduite pendant une courte durée. |n|n|cffffcc00Niveau 1|r - <ALPb,DataE1> dégâts d'attaque, <ALPb,DataA1> dégâts sur la durée. |n|cffffcc00Niveau 2|r - <ALPb,DataE2> dégâts d'attaque, <ALPb,DataA2> dégâts sur la durée. |n|cffffcc00Niveau 3|r - <ALPb,DataE3> dégâts d'attaque, <ALPb,DataA3> dégâts sur la durée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE1> initial damage, and <ALPb,DataA1> damage every <ALPb,Cast1> seconds for <ALPb,Dur1> seconds. The pierce slows the movement speed of the targeted unit for a short duration.",
+    "frFR": "Lothar frappe l'ennemi avec son épée, infligeant <ALPb,DataE1> points de dégâts initiaux, puis <ALPb,DataA1> points de dégâts toutes les <ALPb,Cast1> secondes pendant <ALPb,Dur1> secondes. La perforation réduit la vitesse de déplacement de l'unité ciblée pendant une courte durée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE2> initial damage, and <ALPb,DataA2> damage every <ALPb,Cast2> seconds for <ALPb,Dur2> seconds. The pierce slows the movement speed of the targeted unit for a short duration.",
+    "frFR": "Lothar frappe l'ennemi avec son épée, infligeant <ALPb,DataE2> points de dégâts initiaux, puis <ALPb,DataA2> points de dégâts toutes les <ALPb,Cast2> secondes pendant <ALPb,Dur2> secondes. La perforation réduit la vitesse de déplacement de l'unité ciblée pendant une courte durée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with his sword at the enemy, dealing <ALPb,DataE3> initial damage, and <ALPb,DataA3> damage every <ALPb,Cast3> seconds for <ALPb,Dur3> seconds. The pierce slows the movement speed of the targeted unit for a short duration.",
+    "frFR": "Lothar frappe l'ennemi avec son épée, infligeant <ALPb,DataE3> points de dégâts initiaux, puis <ALPb,DataA3> points de dégâts toutes les <ALPb,Cast3> secondes pendant <ALPb,Dur3> secondes. La perforation réduit la vitesse de déplacement de l'unité ciblée pendant une courte durée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap",
+    "frFR": "Saut héroïque"
+  },
+  "RoA_GLOBAL_HEROES_ALO_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps at the targeted unit, slams the ground, dealing <ALsl,DataA1> damage to nearby enemy land units and slowing their movement by <ALsl,DataC1,%>% and attack rate by <ALsl,DataD1,%>%.",
+    "frFR": "Lothar saute sur l'unité ciblée, frappe le sol, infligeant <ALsl,DataA1> dégâts aux unités terrestres ennemies proches et ralentissant leur mouvement de <ALsl,DataC1,%>% et leur taux d'attaque de <ALsl,DataD1,%>%."
+  },
+  "RoA_GLOBAL_HEROES_ALO_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps at the targeted unit, slams the ground, dealing damage to and slowing the movement speed and attack rate of nearby enemy land units. |n|n|cffffcc00Level 1|r - <ALsl,DataA1> damage, <ALsl,DataC1,%>% move, <ALsl,DataD1,%>% attack. |n|cffffcc00Level 2|r - <ALsl,DataA2> damage, <ALsl,DataC2,%>% move, <ALsl,DataD2,%>% attack. |n|cffffcc00Level 3|r - <ALsl,DataA3> damage, <ALsl,DataC3,%>% move, <ALsl,DataD3,%>% attack.",
+    "frFR": "Lothar bondit sur l'unité ciblée, frappe le sol, infligeant des dégâts et réduisant la vitesse de déplacement et la cadence d'attaque des unités terrestres ennemies proches. |n|n|cffffcc00Niveau 1|r - <ALsl,DataA1> dégâts, <ALsl,DataC1,%>% déplacement, <ALsl,DataD1,%>% attaque. |n|cffffcc00Niveau 2|r - <ALsl,DataA2> dégâts, <ALsl,DataC2,%>% déplacement, <ALsl,DataD2,%>% attaque. |n|cffffcc00Niveau 3|r - <ALsl,DataA3> dégâts, <ALsl,DataC3,%>% déplacement, <ALsl,DataD3,%>% attaque."
+  },
+  "RoA_GLOBAL_HEROES_ALO_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps the at targeted unit, slams the ground, dealing <ALsl,DataA2> damage to nearby enemy land units and slowing their movement by <ALsl,DataC2,%>% and attack rate by <ALsl,DataD2,%>%.",
+    "frFR": "Lothar saute sur l'unité ciblée, frappe le sol, infligeant <ALsl,DataA2> dégâts aux unités terrestres ennemies proches et ralentissant leur mouvement de <ALsl,DataC2,%>% et leur taux d'attaque de <ALsl,DataD2,%>%."
+  },
+  "RoA_GLOBAL_HEROES_ALO_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar leaps the at targeted unit, slams the ground, dealing <ALsl,DataA3> damage to nearby enemy land units and slowing their movement by <ALsl,DataC3,%>% and attack rate by <ALsl,DataD3,%>%.",
+    "frFR": "Lothar saute sur l'unité ciblée, frappe le sol, infligeant <ALsl,DataA3> dégâts aux unités terrestres ennemies proches et ralentissant leur mouvement de <ALsl,DataC3,%>% et leur taux d'attaque de <ALsl,DataD3,%>%."
+  },
+  "RoA_GLOBAL_HEROES_ALO_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Heroic Leap - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Saut héroïque - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap - [|cffffcc00Level 1|r]",
+    "frFR": "Saut héroïque - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap - [|cffffcc00Level 1|r]",
+    "frFR": "Saut héroïque - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap - [|cffffcc00Level 1|r]",
+    "frFR": "Saut héroïque - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap",
+    "frFR": "Saut héroïque"
+  },
+  "RoA_GLOBAL_HEROES_ALO_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap",
+    "frFR": "Saut héroïque"
+  },
+  "RoA_GLOBAL_HEROES_ALO_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has been hit by Heroic Leap; its movement speed and attack rate are reduced.",
+    "frFR": "Cette unité a été touchée par Saut héroïque ; sa vitesse de déplacement et sa cadence d'attaque sont réduites."
+  },
+  "RoA_GLOBAL_HEROES_ALO_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heroic Leap Slam",
+    "frFR": "Saut héroïque "
+  },
+  "RoA_GLOBAL_HEROES_ALO_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes",
+    "frFR": "Frappes éclair"
+  },
+  "RoA_GLOBAL_HEROES_ALO_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Sweeping Strikes - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Frappes éclair - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes - [|cffffcc00Level 1|r]",
+    "frFR": "Frappes éclair - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes - [|cffffcc00Level 2|r]",
+    "frFR": "Frappes éclair - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sweeping Strikes - [|cffffcc00Level 3|r]",
+    "frFR": "Frappes éclair - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_ALO_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that he damages multiple enemies with his attack. |n|n|cffffcc00Level 1|r - <ALcl,DataA1,%>% damage is splash. |n|cffffcc00Level 2|r - <ALcl,DataA2,%>% damage is splash. |n|cffffcc00Level 3|r - <ALcl,DataA3,%>% damage is splash.",
+    "frFR": "Lothar frappe avec une telle force qu'il blesse plusieurs ennemis avec son attaque. |n|n|cffffcc00Niveau 1|r - <ALcl,DataA1,%>% des dégâts sont des dégâts de zone. |n|cffffcc00Niveau 2|r - <ALcl,DataA2,%>% des dégâts sont des dégâts de zone. |n|cffffcc00Niveau 3|r - <ALcl,DataA3,%>% des dégâts sont des dégâts de zone."
+  },
+  "RoA_GLOBAL_HEROES_ALO_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that <ALcl,DataA1,%>% of his damage strikes through to enemies near the primary attacked unit.",
+    "frFR": "Lothar frappe avec une telle force que <ALcl,DataA1,%>% de ses dégâts atteignent les ennemis proches de l'unité principale attaquée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that <ALcl,DataA2,%>% of his damage strikes through to enemies near the primary attacked unit.",
+    "frFR": "Lothar frappe avec une telle force que <ALcl,DataA2,%>% de ses dégâts atteignent les ennemis proches de l'unité principale attaquée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar strikes with such force that <ALcl,DataA3,%>% of his damage strikes through to enemies near the primary attacked unit.",
+    "frFR": "Lothar frappe avec une telle force que <ALcl,DataA3,%>% de ses dégâts atteignent les ennemis proches de l'unité principale attaquée."
+  },
+  "RoA_GLOBAL_HEROES_ALO_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Die by the Sword",
+    "frFR": "Mourir par l'épée"
+  },
+  "RoA_GLOBAL_HEROES_ALO_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Die by the Sword",
+    "frFR": "Mourir par l'épée"
+  },
+  "RoA_GLOBAL_HEROES_ALO_039": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Die by the Sword",
+    "frFR": "Apprendre Mourir par l'épée"
+  },
+  "RoA_GLOBAL_HEROES_ALO_040": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar displays his mastery with sword dealing <ALbl,DataA1> damage per second to nearby enemy land units.",
+    "frFR": "Lothar fait étalage de sa maîtrise de l'épée infligeant <ALbl,DataA1> dégâts par seconde aux unités terrestres ennemies proches."
+  },
+  "RoA_GLOBAL_HEROES_ALO_041": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lothar displays his mastery with sword becoming immune to magic and dealing <ALbl,DataA1> damage per second to nearby enemy land units. |nLasts <ALbl,Dur1> seconds.",
+    "frFR": "Lothar fait étalage de sa maîtrise de l'épée en devenant immunisé contre la magie et en infligeant <ALbl,DataA1> dégâts par seconde aux unités terrestres ennemies proches. |nDure <ALbl,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "frFR": "Capitaine"
+  },
+  "RoA_GLOBAL_HEROES_DPR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "frFR": "Capitaine"
+  },
+  "RoA_GLOBAL_HEROES_DPR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "frFR": "Capitaine"
+  },
+  "RoA_GLOBAL_HEROES_DPR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot",
+    "frFR": "Coup de feu"
+  },
+  "RoA_GLOBAL_HEROES_DPR_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Pistol Shot - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Coup de feu - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot - [|cffffcc00Level 1|r]",
+    "frFR": "Coup de feu - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot - [|cffffcc00Level 2|r]",
+    "frFR": "Coup de feu - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pistol Shot - [|cffffcc00Level 3|r]",
+    "frFR": "Coup de feu - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing damage and stunning the target. |n|n|cffffcc00Level 1|r - <AdSp,DataA1> damage, <AdSp,Dur1> second stun. |n|cffffcc00Level 2|r - <AdSp,DataA2> damage, <AdSp,Dur2> second stun. |n|cffffcc00Level 3|r - <AdSp,DataA3> damage, <AdSp,Dur3> second stun.",
+    "frFR": "Derek tire sur une unité ennemie, infligeant des dégâts et étourdissant la cible. |n|n|cffffcc00Niveau 1|r - <AdSp,DataA1> dégâts, <AdSp,Dur1> second étourdissement. |n|cffffcc00Niveau 2|r - <AdSp,DataA2> dégâts, <AdSp,Dur2> second étourdissement. |n|cffffcc00Niveau 3|r - <AdSp,DataA3> dégâts, <AdSp,Dur3> second étourdissement."
+  },
+  "RoA_GLOBAL_HEROES_DPR_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing <AdSp,DataA1> damage and stunning the target for <AdSp,Dur1> seconds.",
+    "frFR": "Derek tire sur une unité ennemie, causant <AdSp,DataA1> dégâts et étourdissant la cible pendant <AdSp,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing <AdSp,DataA2> damage and stunning the target for <AdSp,Dur2> seconds.",
+    "frFR": "Derek tire sur une unité ennemie, causant <AdSp,DataA2> dégâts et étourdissant la cible pendant <AdSp,Dur2> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek shoots at enemy unit, causing <AdSp,DataA3> damage and stunning the target for <AdSp,Dur3> seconds.",
+    "frFR": "Derek tire sur une unité ennemie, causant <AdSp,DataA3> dégâts et étourdissant la cible pendant <AdSp,Dur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "frFR": "Lancer de grenade"
+  },
+  "RoA_GLOBAL_HEROES_DPR_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "frFR": "Lancer de grenade"
+  },
+  "RoA_GLOBAL_HEROES_DPR_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "frFR": "Lancer de grenade"
+  },
+  "RoA_GLOBAL_HEROES_DPR_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss",
+    "frFR": "Lancer de grenade"
+  },
+  "RoA_GLOBAL_HEROES_DPR_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has been bombed.  It has reduced armor, and is being damaged over time.",
+    "frFR": "Cette unité a été bombardée. Son blindage est réduit et elle subit des dégâts progressifs."
+  },
+  "RoA_GLOBAL_HEROES_DPR_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Grenade Toss - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Lancer de grenade - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss - [|cffffcc00Level 1|r]",
+    "frFR": "Lancer de grenade - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss - [|cffffcc00Level 2|r]",
+    "frFR": "Lancer de grenade - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Grenade Toss - [|cffffcc00Level 3|r]",
+    "frFR": "Lancer de grenade - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor; deals high damage over time to the primary target; deals slightly less damage over time to nearby targets.|nLasts <ANab,Dur1> seconds.|n|n|cffffcc00Level 1|r - <ANab,DataD1> max damage per second, reduces armor by <ANab,DataC1>.|n|cffffcc00Level 2|r - <ANab,DataD2> max damage per second, reduces armor by <ANab,DataC2>.|n|cffffcc00Level 3|r - <ANab,DataD3> max damage per second, reduces armor by <ANab,DataC3>.",
+    "frFR": "Derek lance une grenade sur la cible. Après l'explosion, la bombe projette des éclats sur les unités proches.|n|nRéduit l'armure ; inflige d'importants dégâts sur la durée à la cible principale ; inflige des dégâts légèrement inférieurs sur la durée aux cibles proches.|nDure <ANab,Dur1> secondes.|n|n|cffffcc00Niveau 1|r - <ANab,DataD1> dégâts max par seconde, réduit l'armure de <ANab,DataC1>.|n|cffffcc00Niveau 2|r - <ANab,DataD2> dégâts max par seconde, réduit l'armure de <ANab,DataC2>.|n|cffffcc00Niveau 3|r - <ANab,DataD3> dégâts max par seconde, réduit l'armure de <ANab,DataC3>."
+  },
+  "RoA_GLOBAL_HEROES_DPR_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor by <ADgr,DataC1>; deals <ADgr,DataD1> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ADgr,Dur1> seconds.",
+    "frFR": "Derek lance une grenade sur la cible. Après l'explosion, des éclats d'obus sont projetés sur les unités proches. Réduit l'armure de <ADgr,DataC1> ; inflige <ADgr,DataD1> dégâts par seconde à la cible principale ; inflige des dégâts légèrement inférieurs aux cibles proches. Dure <ADgr,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor by <ADgr,DataC2>; deals <ADgr,DataD2> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ADgr,Dur2> seconds.",
+    "frFR": "Derek lance une grenade sur la cible. Après l'explosion, des éclats d'obus sont projetés sur les unités proches. Réduit l'armure de <ADgr,DataC2> ; inflige <ADgr,DataD2> dégâts par seconde à la cible principale ; inflige légèrement moins de dégâts aux cibles proches. Dure <ADgr,Dur2> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws grenade at target. After explosion, the bomb splashes shrapnel on nearby units.|n|nDecreases armor by <ADgr,DataC3>; deals <ADgr,DataD3> damage per second to the primary target; deals slightly less damage to nearby targets.|nLasts <ADgr,Dur3> seconds.",
+    "frFR": "Derek lance une grenade sur la cible. Après l'explosion, des éclats d'obus sont projetés sur les unités proches. Réduit l'armure de <ADgr,DataC3> ; inflige <ADgr,DataD3> dégâts par seconde à la cible principale ; inflige légèrement moins de dégâts aux cibles proches. Dure <ADgr,Dur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_DPR_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer",
+    "frFR": "Escrime"
+  },
+  "RoA_GLOBAL_HEROES_DPR_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fencer - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Escrime - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer - [|cffffcc00Level 1|r]",
+    "frFR": "Escrime - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer - [|cffffcc00Level 2|r]",
+    "frFR": "Escrime - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fencer - [|cffffcc00Level 3|r]",
+    "frFR": "Escrime - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DPR_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gives a <ADpE,DataD2,%>% chance to dodge an attack and a <ADpE,DataA2>% chance to deal <ADpE,DataB2> times normal damage.",
+    "frFR": "Donne <ADpE,DataD2,%>% de chances d'esquiver une attaque et <ADpE,DataA2>% de chances d'infliger <ADpE,DataB2> fois les dégâts normaux."
+  },
+  "RoA_GLOBAL_HEROES_DPR_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gives a <ADpE,DataD2,%>% chance to dodge an attack and a <ADpE,DataA2>% chance to deal <ADpE,DataB2> times normal damage.",
+    "frFR": "Donne <ADpE,DataD2,%>% de chances d'esquiver une attaque et <ADpE,DataA2>% de chances d'infliger <ADpE,DataB2> fois les dégâts normaux."
+  },
+  "RoA_GLOBAL_HEROES_DPR_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fishnets",
+    "frFR": "Filets de pêche"
+  },
+  "RoA_GLOBAL_HEROES_DPR_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fishnets",
+    "frFR": "Filets de pêche"
+  },
+  "RoA_GLOBAL_HEROES_DPR_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fishnets",
+    "frFR": "Apprendre Filets de pêche"
+  },
+  "RoA_GLOBAL_HEROES_DPR_039": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws fishnets with hooks that ensnare enemy ground units damaging them over time and stunning them for <ADpW,Dur1> second.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>.",
+    "frFR": "Derek lance des filets de pêche avec des hameçons qui piègent les unités terrestres ennemies, leur infligeant des dégâts au fil du temps et les étourdissant pendant <ADpW,Dur1> seconde.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>."
+  },
+  "RoA_GLOBAL_HEROES_DPR_040": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Derek throws fishnets with hooks, stunning enemy land units for <ADpW,Dur1> second and damaging them.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>.",
+    "frFR": "Derek lance des filets de pêche avec des hameçons, étourdissant les unités terrestres ennemies pendant <ADpW,Dur1> seconde et leur infligeant des dégâts.|n|n|cffffcc00Max Damage|r - <ADpW,DataD1>."
+  },
+  "RoA_GLOBAL_HEROES_DTR_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath Trollbane",
+    "frFR": "Danath Trollbane"
+  },
+  "RoA_GLOBAL_HEROES_DTR_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath Trollbane",
+    "frFR": "Danath Trollbane"
+  },
+  "RoA_GLOBAL_HEROES_DTR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Captain",
+    "frFR": "Capitaine"
+  },
+  "RoA_GLOBAL_HEROES_DTR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Captain",
+    "frFR": "Ranimer Capitaine"
+  },
+  "RoA_GLOBAL_HEROES_DTR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Captain",
+    "frFR": "Ranimer Capitaine"
+  },
+  "RoA_GLOBAL_HEROES_DTR_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde",
+    "frFR": "Pour Stromgarde !"
+  },
+  "RoA_GLOBAL_HEROES_DTR_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn For Stromgarde - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Pour Stromgarde ! - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde - [|cffffcc00Level 1|r]",
+    "frFR": "Pour Stromgarde ! - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde - [|cffffcc00Level 2|r]",
+    "frFR": "Pour Stromgarde ! - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde - [|cffffcc00Level 3|r]",
+    "frFR": "Pour Stromgarde ! - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde",
+    "frFR": "Pour Stromgarde !"
+  },
+  "RoA_GLOBAL_HEROES_DTR_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "For Stromgarde",
+    "frFR": "Pour Stromgarde !"
+  },
+  "RoA_GLOBAL_HEROES_DTR_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash",
+    "frFR": "Coup de bouclier"
+  },
+  "RoA_GLOBAL_HEROES_DTR_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash - [|cffffcc00Level 1|r]",
+    "frFR": "Coup de bouclier - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash - [|cffffcc00Level 2|r]",
+    "frFR": "Coup de bouclier - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield Bash - [|cffffcc00Level 3|r]",
+    "frFR": "Coup de bouclier - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Shield Bash - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Coup de bouclier - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield which deals <ADsb,DataA1> damage to each enemy land unit in a line, up to <ADsb,DataB1> max damage.",
+    "frFR": "Danath frappe les ennemis avec son bouclier qui inflige <ADsb,DataA1> dégâts à chaque unité terrestre ennemie sur une ligne, jusqu'à <ADsb,DataB1> dégâts maximum."
+  },
+  "RoA_GLOBAL_HEROES_DTR_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield which deals <ADsb,DataA2> damage to each enemy land unit in a line, up to <ADsb,DataB2> max damage.",
+    "frFR": "Danath frappe les ennemis avec son bouclier qui inflige <ADsb,DataA2> dégâts à chaque unité terrestre ennemie sur une ligne, jusqu'à <ADsb,DataB2> dégâts maximum."
+  },
+  "RoA_GLOBAL_HEROES_DTR_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield which deals <ADsb,DataA3> damage to each enemy land unit in a line, up to <ADsb,DataB3> max damage.",
+    "frFR": "Danath frappe les ennemis avec son bouclier qui inflige <ADsb,DataA3> dégâts à chaque unité terrestre ennemie sur une ligne, jusqu'à <ADsb,DataB3> dégâts maximum."
+  },
+  "RoA_GLOBAL_HEROES_DTR_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Danath bashes enemies with his shield. |n|n|cffffcc00Level 1|r - <ADsb,DataA1> damage per unit. |n|cffffcc00Level 2|r - <ADsb,DataA2> damage per unit. |n|cffffcc00Level 3|r - <ADsb,DataA3> damage per unit.",
+    "frFR": "Danath frappe ses ennemis avec son bouclier. |n|n|cffffcc00Niveau 1|r - <ADsb,DataA1> dégâts par unité. |n|cffffcc00Niveau 2|r - <ADsb,DataA2> dégâts par unité. |n|cffffcc00Niveau 3|r - <ADsb,DataA3> dégâts par unité."
+  },
+  "RoA_GLOBAL_HEROES_DTR_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery  - [|cffffcc00Level 1|r]",
+    "frFR": "Maîtrise du siège  - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery  - [|cffffcc00Level 2|r]",
+    "frFR": "Maîtrise du siège  - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege Mastery  - [|cffffcc00Level 3|r]",
+    "frFR": "Maîtrise du siège  - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Siege Mastery - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Maîtrise du siège - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_DTR_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Horn of Stromgarde",
+    "frFR": "Corne de Stromgarde"
+  },
+  "RoA_GLOBAL_HEROES_DTR_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Horn of Stromgarde",
+    "frFR": "Corne de Stromgarde"
+  },
+  "RoA_GLOBAL_HEROES_DTR_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Horn of Stromgarde",
+    "frFR": "Apprendre Corne de Stromgarde"
+  },
+  "RoA_GLOBAL_HEROES_DTR_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent.",
+    "frFR": "Invoquez 6 gardes royaux de Stromgarde pour aider Danath. L'invocation est permanente."
+  },
+  "RoA_GLOBAL_HEROES_DTR_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon 6 Stromgarde Royal Guards to aid Danath. Summon is permanent.",
+    "frFR": "Invoquez 6 gardes royaux de Stromgarde pour aider Danath. L'invocation est permanente."
+  },
+  "RoA_GLOBAL_HEROES_KAS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "frFR": "Kurdran et Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "frFR": "Kurdran et Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "frFR": "Kurdran et Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "frFR": "Kurdran et Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "frFR": "Kurdran et Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kurdran and Sky'ree",
+    "frFR": "Kurdran et Sky'ree"
+  },
+  "RoA_GLOBAL_HEROES_KAS_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "frFR": "Haut Thane"
+  },
+  "RoA_GLOBAL_HEROES_KAS_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "frFR": "Haut Thane"
+  },
+  "RoA_GLOBAL_HEROES_KAS_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "frFR": "Haut Thane"
+  },
+  "RoA_GLOBAL_HEROES_KAS_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "frFR": "Haut Thane"
+  },
+  "RoA_GLOBAL_HEROES_KAS_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Thane",
+    "frFR": "Haut Thane"
+  },
+  "RoA_GLOBAL_HEROES_KAS_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Land",
+    "frFR": "Atterir"
+  },
+  "RoA_GLOBAL_HEROES_KAS_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Land",
+    "frFR": "Atterir"
+  },
+  "RoA_GLOBAL_HEROES_KAS_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree lands on the ground.",
+    "frFR": "Sky'ree atterrit au sol."
+  },
+  "RoA_GLOBAL_HEROES_KAS_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree lands on the ground.",
+    "frFR": "Sky'ree atterrit au sol."
+  },
+  "RoA_GLOBAL_HEROES_KAS_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Take Wing",
+    "frFR": "S'envoler"
+  },
+  "RoA_GLOBAL_HEROES_KAS_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree takes wing and flies in the sky.",
+    "frFR": "Sky'ree prend son envol et s'élève dans le ciel."
+  },
+  "RoA_GLOBAL_HEROES_KAS_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sky'ree takes wing and flies in the sky.",
+    "frFR": "Sky'ree prend son envol et s'élève dans le ciel."
+  },
+  "RoA_GLOBAL_HEROES_KAS_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw",
+    "frFR": "Lancer de marteau"
+  },
+  "RoA_GLOBAL_HEROES_KAS_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Hammer Throw - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Lancer de marteau - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw - [|cffffcc00Level 1|r]",
+    "frFR": "Lancer de marteau - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw - [|cffffcc00Level 2|r]",
+    "frFR": "Lancer de marteau - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer Throw - [|cffffcc00Level 3|r]",
+    "frFR": "Lancer de marteau - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "A magical hammer that is thrown at an enemy unit, causing damage and stunning the target. |n|n|cffffcc00Level 1|r - <AKht,DataA1> damage, <AKht,Dur1> second stun. |n|cffffcc00Level 2|r - <AKht,DataA2> damage, <AKht,Dur2> second stun. |n|cffffcc00Level 3|r - <AKht,DataA3> damage, <AKht,Dur3> second stun.",
+    "frFR": "Un marteau magique lancé sur une unité ennemie, infligeant des dégâts et étourdissant la cible. |n|n|cffffcc00Niveau 1|r - <AKht,DataA1> dégâts, <AKht,Dur1> seconde étourdissement. |n|cffffcc00Niveau 2|r - <AKht,DataA2> dégâts, <AKht,Dur2> seconde étourdissement. |n|cffffcc00Niveau 3|r - <AKht,DataA3> dégâts, <AKht,Dur3> seconde étourdissement."
+  },
+  "RoA_GLOBAL_HEROES_KAS_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA1> damage and stunning the target for <AKht,Dur1> seconds.",
+    "frFR": "Lance un marteau magique sur une unité ennemie ciblée, infligeant <AKht,DataA1> dégâts et étourdissant la cible pendant <AKht,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_KAS_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA2> damage and stunning the target for <AKht,Dur2> seconds.",
+    "frFR": "Lance un marteau magique sur une unité ennemie ciblée, infligeant <AKht,DataA2> dégâts et étourdissant la cible pendant <AKht,Dur2> secondes."
+  },
+  "RoA_GLOBAL_HEROES_KAS_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Throws a magical hammer at a target enemy unit, dealing <AKht,DataA3> damage and stunning the target for <AKht,Dur3> seconds.",
+    "frFR": "Lance un marteau magique sur une unité ennemie ciblée, infligeant <AKht,DataA3> dégâts et étourdissant la cible pendant <AKht,Dur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_KAS_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB2> enemy units for <AKuW,DataA2> damage.",
+    "frFR": "Invoque un cône de foudre sur une unité ennemie ciblée, touchant jusqu'à <AKuW,DataB2> unités ennemies pour <AKuW,DataA2> dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KAS_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB3> enemy units for <AKuW,DataA3> damage.",
+    "frFR": "Invoque un cône de foudre sur une unité ennemie ciblée, touchant jusqu'à <AKuW,DataB3> unités ennemies pour <AKuW,DataA3> dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KAS_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a cone of lightning on a target enemy unit, hitting up to <AKuW,DataB1> enemy units for <AKuW,DataA1> damage.",
+    "frFR": "Invoque un cône de foudre sur une unité ennemie ciblée, touchant jusqu'à <AKuW,DataB1> unités ennemies pour <AKuW,DataA1> dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KAS_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers",
+    "frFR": "Plumes de fer"
+  },
+  "RoA_GLOBAL_HEROES_KAS_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Iron Feathers - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Plumes de fer - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers - [|cffffcc00Level 1|r]",
+    "frFR": "Plumes de fer - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers - [|cffffcc00Level 2|r]",
+    "frFR": "Plumes de fer - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Iron Feathers - [|cffffcc00Level 3|r]",
+    "frFR": "Plumes de fer - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KAS_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Skyree grows layers of sharp feather armor that increases its defense and returns damage to enemy melee attackers.  |n|n|cffffcc00Level 1|r - <AUts,DataA1,%>% damage returned, <AUts,DataC1> bonus armor. |n|cffffcc00Level 2|r -  <AUts,DataA2,%>% damage returned, <AUts,DataC2> bonus armor. |n|cffffcc00Level 3|r -  <AUts,DataA3,%>% damage returned, <AUts,DataC3> bonus armor.",
+    "frFR": "Sky'ree développe plusieurs couches d'armure de plumes acérées qui augmentent sa défense et renvoient des dégâts aux ennemis au corps à corps.  |n|n|cffffcc00Niveau 1|r - <AUts,DataA1,%>% dégâts renvoyés, <AUts,DataC1> d'armure bonus. |n|cffffcc00Niveau 2|r -  <AUts,DataA2,%>% dégâts renvoyés, <AUts,DataC2> d'armure bonus. |n|cffffcc00Niveau 3|r -  <AUts,DataA3,%>% dégâts renvoyés, <AUts,DataC3> d'armure bonus."
+  },
+  "RoA_GLOBAL_HEROES_KHA_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Archmage",
+    "frFR": "Archimage"
+  },
+  "RoA_GLOBAL_HEROES_KHA_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Archmage",
+    "frFR": "Ranimer Archimage"
+  },
+  "RoA_GLOBAL_HEROES_KHA_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Archmage",
+    "frFR": "Ranimer Archimage"
+  },
+  "RoA_GLOBAL_HEROES_KHA_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB1> times, dealing <AKhc,DataA1> damage on the primary target. Each jump deals less damage.",
+    "frFR": "Invoque un éclair qui rebondit jusqu'à <AKhc,DataB1> fois, infligeant <AKhc,DataA1> points de dégâts à la cible principale. Chaque rebond inflige moins de dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KHA_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB2> times, dealing <AKhc,DataA2> damage on the primary target. Each jump deals less damage.",
+    "frFR": "Invoque un éclair qui rebondit jusqu'à <AKhc,DataB2> fois, infligeant <AKhc,DataA2> dégâts à la cible principale. Chaque rebond inflige moins de dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KHA_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a bolt of lightning that bounces up to <AKhc,DataB3> times, dealing <AKhc,DataA3> damage on the primary target. Each jump deals less damage.",
+    "frFR": "Invoque un éclair qui rebondit jusqu'à <AKhc,DataB3> fois, infligeant <AKhc,DataA3> dégâts à la cible principale. Chaque rebond inflige moins de dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KHA_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AKhc,DataA1> damage, jumps <AKhc,DataB1> times. |n|cffffcc00Level 2|r - <AKhc,DataA2> damage, jumps <AKhc,DataB2> times. |n|cffffcc00Level 3|r - <AKhc,DataA3> damage, jumps <AKhc,DataB3> times.",
+    "frFR": "Lance un éclair dévastateur sur un ennemi ciblé, qui se propage aux ennemis proches. Chaque saut inflige des dégâts décroissants. |n|n|cffffcc00Niveau 1|r - <AKhc,DataA1> dégâts, saute <AKhc,DataB1> fois. |n|cffffcc00Niveau 2|r - <AKhc,DataA2> dégâts, saute <AKhc,DataB2> fois. |n|cffffcc00Niveau 3|r - <AKhc,DataA3> dégâts, saute <AKhc,DataB3> fois."
+  },
+  "RoA_GLOBAL_HEROES_KHA_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.",
+    "frFR": "Lance un éclair qui rebondit jusqu'à <A642:ACcl,DataB2> fois, infligeant <A642:ACcl,DataA2> points de dégâts à la cible principale. Chaque rebond inflige moins de dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KHA_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB1> times, dealing <A642:ACcl,DataA1> damage to the primary target.",
+    "frFR": "Lance un éclair qui rebondit jusqu'à <A642:ACcl,DataB1> fois, infligeant <A642:ACcl,DataA1> dégâts à la cible principale."
+  },
+  "RoA_GLOBAL_HEROES_KHA_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a bolt of lightning that bounces up to <A642:ACcl,DataB2> times, dealing <A642:ACcl,DataA2> damage to the primary target. Each jump deals less damage.",
+    "frFR": "Lance un éclair qui rebondit jusqu'à <A642:ACcl,DataB2> fois, infligeant <A642:ACcl,DataA2> points de dégâts à la cible principale. Chaque rebond inflige moins de dégâts."
+  },
+  "RoA_GLOBAL_HEROES_KHA_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "frFR": "Trait de feu"
+  },
+  "RoA_GLOBAL_HEROES_KHA_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "frFR": "Trait de feu"
+  },
+  "RoA_GLOBAL_HEROES_KHA_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "frFR": "Trait de feu"
+  },
+  "RoA_GLOBAL_HEROES_KHA_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fire Bolt - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Trait de feu - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 1|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 2|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 3|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit was hit by a Fire Bolt, and is taking damage over time.",
+    "frFR": "Cette unité a été touchée par un trait de feu et subit des dégâts au fil du temps."
+  },
+  "RoA_GLOBAL_HEROES_KHA_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit when hit.|nThe firebolt explodes with pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - initial <AKfB,DataD1> max damage and stun for <AKfB,Dur1> seconds, with later 45 damage per second for 3 seconds, followed by minor damage for 6 seconds. |n|cffffcc00Level 2|r -  initial <AKfB,DataD2> max damage and stun for <AKfB,Dur2> seconds, with later 80 damage a second for 3 seconds, followed by light damage for 6 seconds. |n|cffffcc00Level 3|r -  initial <AKfB,DataD3> max damage and stun for <AKfB,Dur3> seconds, with later 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds.",
+    "frFR": "Projette un projectile enflammé qui étourdit une unité ennemie ciblée à l'impact. Ce projectile explose en une colonne de feu qui inflige des dégâts aux unités terrestres dans la zone ciblée sur la durée. Niveau 1 : inflige initialement <AKfB,DataD1> dégâts maximum et étourdit pendant <AKfB,Dur1> secondes, puis inflige 45 dégâts par seconde pendant 3 secondes, suivis de dégâts mineurs pendant 6 secondes. Niveau 2 : inflige initialement <AKfB,DataD2> dégâts maximum et étourdit pendant <AKfB,Dur2> secondes, puis inflige 80 dégâts par seconde pendant 3 secondes, suivis de dégâts légers pendant 6 secondes. Niveau 3 : inflige initialement <AKfB,DataD3> dégâts maximum et étourdit pendant <AKfB,Dur3> secondes, puis inflige 110 dégâts par seconde pendant 3 secondes, suivis de dégâts modérés pendant 6 secondes."
+  },
+  "RoA_GLOBAL_HEROES_KHA_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Illusions - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Illusions - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions - [|cffffcc00Level 1|r]",
+    "frFR": "Illusions - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions - [|cffffcc00Level 2|r]",
+    "frFR": "Illusions - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Illusions - [|cffffcc00Level 3|r]",
+    "frFR": "Illusions - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_KHA_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit.  |n|n|cffffcc00Level 1|r - <AKhi,DataA1>% damage to enemy, <AKhi,DataB1> damage taken. |n|cffffcc00Level 2|r -  <AKhi,DataA2>% damage to enemy, <AKhi,DataB2> damage taken. |n|cffffcc00Level 3|r -  <AKhi,DataA3>% damage to enemy, <AKhi,DataB3> damage taken.",
+    "frFR": "Crée un double illusoire de l'unité ciblée. |n|n|cffffcc00Niveau 1|r - <AKhi,DataA1>% de dégâts infligés à l'ennemi, <AKhi,DataB1> dégâts subis. |n|cffffcc00Niveau 2|r - <AKhi,DataA2>% de dégâts infligés à l'ennemi, <AKhi,DataB2> dégâts subis. |n|cffffcc00Niveau 3|r - <AKhi,DataA3>% de dégâts infligés à l'ennemi, <AKhi,DataB3> dégâts subis."
+  },
+  "RoA_GLOBAL_HEROES_KHA_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA1>% damage to enemy units, takes <AKhi,DataB1> times the damage from enemy attacks, and will disappear after <AKhi,Dur1> seconds or when its hit points reach zero.",
+    "frFR": "Crée un double illusoire de l'unité ciblée. Le double illusoire inflige <AKhi,DataA1>% de dégâts aux unités ennemies, subit <AKhi,DataB1> fois les dégâts des attaques ennemies et disparaîtra après <AKhi,Dur1> secondes ou lorsque ses points de vie atteindront zéro."
+  },
+  "RoA_GLOBAL_HEROES_KHA_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA2>% damage to enemy units, takes <AKhi,DataB2> times the damage from enemy attacks, and will disappear after <AKhi,Dur2> seconds or when its hit points reach zero.",
+    "frFR": "Crée un double illusoire de l'unité ciblée. Le double illusoire inflige <AKhi,DataA2>% de dégâts aux unités ennemies, subit <AKhi,DataB2> fois les dégâts des attaques ennemies et disparaîtra après <AKhi,Dur2> secondes ou lorsque ses points de vie atteindront zéro."
+  },
+  "RoA_GLOBAL_HEROES_KHA_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Create an illusory double of the targeted unit. The illusory double deals <AKhi,DataA3>% damage to enemy units, takes <AKhi,DataB3> times the damage from enemy attacks, and will disappear after <AKhi,Dur3> seconds or when its hit points reach zero.",
+    "frFR": "Crée un double illusoire de l'unité ciblée. Le double illusoire inflige <AKhi,DataA3>% de dégâts aux unités ennemies, subit <AKhi,DataB3> fois les dégâts des attaques ennemies et disparaîtra après <AKhi,Dur3> secondes ou lorsque ses points de vie atteindront zéro."
+  },
+  "RoA_GLOBAL_HEROES_KHA_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arcane Storm",
+    "frFR": "Tempête arcanique"
+  },
+  "RoA_GLOBAL_HEROES_KHA_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arcane Storm",
+    "frFR": "Tempête arcanique"
+  },
+  "RoA_GLOBAL_HEROES_KHA_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arcane Storm",
+    "frFR": "Tempête arcanique"
+  },
+  "RoA_GLOBAL_HEROES_KHA_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is being damaged by Arcane Storm.",
+    "frFR": "Cette unité subit des dégâts de Tempête arcanique."
+  },
+  "RoA_GLOBAL_HEROES_KHA_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down waves of arcane shards that damage units in a target area. |n|n|cffffcc00Waves|r - <AKaS,DataA1>. |n|cffffcc00Damage|r - <AKaS,DataB1>  each.",
+    "frFR": "Invoque des vagues d'éclats arcaniques qui infligent des dégâts aux unités dans une zone ciblée. |n|n|cffffcc00Vagues|r - <AKaS,DataA1>. |n|cffffcc00Dégâts|r - <AKaS,DataB1> chacune."
+  },
+  "RoA_GLOBAL_HEROES_KHA_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <AKaS,DataA1> arcane shard waves; each wave deals <AKaS,DataB1> damage to units in an area.",
+    "frFR": "Invoque des vagues d'éclats arcaniques <AKaS,DataA1> ; chaque vague inflige <AKaS,DataB1> dégâts aux unités dans une zone."
+  },
+  "RoA_GLOBAL_HEROES_MTS_001": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "frFR": "Milan le Scribe"
+  },
+  "RoA_GLOBAL_HEROES_MTS_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan the Scribe",
+    "frFR": "Milan le Scribe"
+  },
+  "RoA_GLOBAL_HEROES_MTS_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Chronicler",
+    "frFR": "Ranimer Chroniqueur"
+  },
+  "RoA_GLOBAL_HEROES_MTS_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Chronicler",
+    "frFR": "Ranimer Chroniqueur"
+  },
+  "RoA_GLOBAL_HEROES_MTS_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor",
+    "frFR": "Érudit,Serviteur,Écuyer,Chroniqueur,Caporal,Sergent,Lieutenant,Capitaine,Commandant,Major,Colonel,Maréchal,Sénéchal,Conseiller royal"
+  },
+  "RoA_GLOBAL_HEROES_MTS_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scholar,Servant,Squire,Chronicler,Corporal,Sergeant,Lieutenant,Captain,Commander,Major,Colonel,Marshal,Field Marshal,Seneschal,Royal Advisor",
+    "frFR": "Érudit,Serviteur,Écuyer,Chroniqueur,Caporal,Sergent,Lieutenant,Capitaine,Commandant,Major,Colonel,Maréchal,Sénéchal,Conseiller royal"
+  },
+  "RoA_GLOBAL_HEROES_MTS_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan's Training",
+    "frFR": "Entraînement de Milan"
+  },
+  "RoA_GLOBAL_HEROES_MTS_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fire Bolt",
+    "frFR": "Trait de feu"
+  },
+  "RoA_GLOBAL_HEROES_MTS_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy land unit for <AFBM,Dur1> seconds and deals <AFBM,DataA1> damage.  |n|n|cffffcc00Can target land units.|r",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité terrestre ennemie ciblée pendant <AFBM,Dur1> secondes et lui inflige <AFBM,DataA1> points de dégâts. |n|n|cffffcc00Peut cibler les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy land or mechanical unit for <AFBM,Dur2> seconds and deals <AFBM,DataA2> damage. |n|n|cffffcc00Can target land and mechanical units.|r",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité terrestre ou mécanique ennemie ciblée pendant <AFBM,Dur2> secondes et inflige <AFBM,DataA2> points de dégâts. |n|n|cffffcc00Peut cibler les unités terrestres et mécaniques.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy land, mechanical or air unit  for <AFBM,Dur3> seconds and deals <AFBM,DataA3> damage.  |n|n|cffffcc00Can target land, mechanical and air units.|r",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité terrestre, mécanique ou aérienne ennemie ciblée pendant <AFBM,Dur3> secondes et inflige <AFBM,DataA3> points de dégâts. |n|n|cffffcc00Peut cibler les unités terrestres, mécaniques et aériennes.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit or building for <AFBM,Dur4> seconds and deals <AFBM,DataA4> damage. |n|n|cffffcc00Can target land, mechanical, air units and buildings.|r",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité ou un bâtiment ennemi pendant <AFBM,Dur4> secondes et inflige <AFBM,DataA4> points de dégâts. |n|n|cffffcc00Peut cibler les unités terrestres, mécaniques, aériennes et les bâtiments.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur1> seconds and deals up to initial <AKfB,DataD1>  damage.The firebolt explodes with a pillar of flame that burns ground units for 45 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take minor damage.",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité ennemie ciblée pendant <AKfB,Dur1> secondes et lui inflige jusqu'à <AKfB,DataD1> points de dégâts initiaux. Le projectile explose en une colonne de flammes qui brûle les unités terrestres, leur infligeant 45 points de dégâts par seconde pendant 3 secondes. Lorsque la colonne de flammes se dissipe, les unités prises dans les flammes continuent de subir de légers dégâts."
+  },
+  "RoA_GLOBAL_HEROES_MTS_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur2> seconds and deals up to initial <AKfB,DataD2>  damage.|nThe firebolt explodes with a pillar of flame that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage.",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité ennemie ciblée pendant <AKfB,Dur2> secondes et lui inflige jusqu'à <AKfB,DataD2> points de dégâts initiaux. Le projectile explose en une colonne de flammes qui brûle les unités terrestres, leur infligeant 80 points de dégâts par seconde pendant 3 secondes. Lorsque la colonne de flammes se dissipe, les unités prises dans les flammes continuent de subir de légers dégâts."
+  },
+  "RoA_GLOBAL_HEROES_MTS_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit  for <AKfB,Dur3> seconds and deals up to initial <AKfB,DataD3>  damage.|nThe firebolt explodes with a pillar of flame that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage.",
+    "frFR": "Lance un projectile enflammé qui étourdit une unité ennemie ciblée pendant <AKfB,Dur3> secondes et lui inflige jusqu'à <AKfB,DataD3> points de dégâts initiaux. Le projectile explose en une colonne de flammes qui brûle les unités terrestres, leur infligeant 110 points de dégâts par seconde pendant 3 secondes. Lorsque la colonne de flammes se dissipe, les unités prises dans les flammes continuent de subir des dégâts modérés."
+  },
+  "RoA_GLOBAL_HEROES_MTS_039": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hurls a fiery bolt that stuns a target enemy unit when hit.|nThe firebolt explodes with pillar of fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - initial <AKfB,DataD1> max damage and stun for <AKfB,Dur1> seconds, with later 45 damage per second for 3 seconds, followed by minor damage for 6 seconds. |n|cffffcc00Level 2|r -  initial <AKfB,DataD2> max damage and stun for <AKfB,Dur2> seconds, with later 80 damage a second for 3 seconds, followed by light damage for 6 seconds. |n|cffffcc00Level 3|r -  initial <AKfB,DataD3> max damage and stun for <AKfB,Dur3> seconds, with later 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds.",
+    "frFR": "Projette un projectile enflammé qui étourdit une unité ennemie ciblée à l'impact. Ce projectile explose en une colonne de feu qui inflige des dégâts aux unités terrestres dans la zone ciblée sur la durée. Niveau 1 : inflige initialement <AKfB,DataD1> dégâts maximum et étourdit pendant <AKfB,Dur1> secondes, puis inflige 45 dégâts par seconde pendant 3 secondes, suivis de dégâts mineurs pendant 6 secondes. Niveau 2 : inflige initialement <AKfB,DataD2> dégâts maximum et étourdit pendant <AKfB,Dur2> secondes, puis inflige 80 dégâts par seconde pendant 3 secondes, suivis de dégâts légers pendant 6 secondes. Niveau 3 : inflige initialement <AKfB,DataD3> dégâts maximum et étourdit pendant <AKfB,Dur3> secondes, puis inflige 110 dégâts par seconde pendant 3 secondes, suivis de dégâts modérés pendant 6 secondes."
+  },
+  "RoA_GLOBAL_HEROES_MTS_040": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Fire Bolt - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Trait de feu - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_041": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 1|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_042": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 2|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_043": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 3|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_044": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 1|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_045": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 2|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_046": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 3|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_047": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Firebolt - [|cffffcc00Level 4|r]",
+    "frFR": "Trait de feu - [|cffffcc00Niveau 4|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_048": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread",
+    "frFR": "Pain Elfique"
+  },
+  "RoA_GLOBAL_HEROES_MTS_049": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 1|r]",
+    "frFR": "Pain Elfique - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_050": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 2|r]",
+    "frFR": "Pain Elfique - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_051": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 3|r]",
+    "frFR": "Pain Elfique - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_052": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Bread - [|cffffcc00Level 4|r]",
+    "frFR": "Pain Elfique - [|cffffcc00Niveau 4|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_053": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA1> hit points.",
+    "frFR": "Milan mange le pain elfique et se soigne de <AMeb,DataA1> points de vie."
+  },
+  "RoA_GLOBAL_HEROES_MTS_054": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA2> hit points.",
+    "frFR": "Milan mange le pain elfique et se soigne de <AMeb,DataA2> points de vie."
+  },
+  "RoA_GLOBAL_HEROES_MTS_055": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA3> hit points.",
+    "frFR": "Milan mange le pain elfique et se soigne de <AMeb,DataA3> points de vie."
+  },
+  "RoA_GLOBAL_HEROES_MTS_056": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan eats the elven bread and heals self for <AMeb,DataA4> hit points.",
+    "frFR": "Milan mange le pain elfique et se soigne pour <AMeb,DataA4> points de vie."
+  },
+  "RoA_GLOBAL_HEROES_MTS_057": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 1|r]",
+    "frFR": "Filets - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_058": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 2|r]",
+    "frFR": "Filets - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_059": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 3|r]",
+    "frFR": "Filets - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_060": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ensnare - [|cffffcc00Level 4|r]",
+    "frFR": "Filets - [|cffffcc00Niveau 4|r]"
+  },
+  "RoA_GLOBAL_HEROES_MTS_061": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur2> seconds.",
+    "frFR": "Immobilise une unité ciblée au sol, l'empêchant de se déplacer. Les unités aériennes immobilisées peuvent être attaquées comme des unités terrestres. |nDure <AEMi,Dur2> secondes."
+  },
+  "RoA_GLOBAL_HEROES_MTS_062": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur3> seconds.",
+    "frFR": "Immobilise une unité ciblée au sol, l'empêchant de se déplacer. Les unités aériennes immobilisées peuvent être attaquées comme des unités terrestres. |nDure <AEMi,Dur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_MTS_063": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Causes a target unit to be bound to the ground so that it cannot move. Air units that are ensnared can be attacked as though they were land units. |nLasts <AEMi,Dur4> seconds. |n|n|cffffcc00Can also target heroes.|r",
+    "frFR": "Immobilise une unité ciblée au sol, l'empêchant de se déplacer. Les unités aériennes immobilisées peuvent être attaquées comme des unités terrestres. |nDure <AEMi,Dur4> secondes. |n|n|cffffcc00Peut également cibler les héros.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_064": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Blood of the Highborn",
+    "frFR": "Sang de noble"
+  },
+  "RoA_GLOBAL_HEROES_MTS_065": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Blood of the Highborn",
+    "frFR": "Sang de noble"
+  },
+  "RoA_GLOBAL_HEROES_MTS_066": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pick Sword",
+    "frFR": "Choisir l'épée"
+  },
+  "RoA_GLOBAL_HEROES_MTS_067": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan Equips his Sword and becomes melee attacker. |n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Milan s'équipe de son épée et devient un attaquant au corps à corps. |n|n|cffffcc00Attaque les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_HEROES_MTS_068": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Pick Bow",
+    "frFR": "Choisir l'arc"
+  },
+  "RoA_GLOBAL_HEROES_MTS_069": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Milan Equips his bow and becomes ranged attacker. |n|n|cffffcc00Attacks land and air units.|r",
+    "frFR": "Milan s'équipe de son arc et devient un attaquant à distance. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Professor",
+    "frFR": "Professeur"
+  },
+  "RoA_GLOBAL_HEROES_RET_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Professor",
+    "frFR": "Ranimer Professeur"
+  },
+  "RoA_GLOBAL_HEROES_RET_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Revive Professor",
+    "frFR": "Ranimer Professeur"
+  },
+  "RoA_GLOBAL_HEROES_RET_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling",
+    "frFR": "Embobiner"
+  },
+  "RoA_GLOBAL_HEROES_RET_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Bamboozling - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Embobiner - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling - [|cffffcc00Level 1|r]",
+    "frFR": "Embobiner - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling - [|cffffcc00Level 2|r]",
+    "frFR": "Embobiner - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bamboozling - [|cffffcc00Level 3|r]",
+    "frFR": "Embobiner - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down waves of falling sheeps that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each.",
+    "frFR": "Invoque des vagues de moutons qui infligent des dégâts aux unités dans une zone ciblée. |n|n|cffffcc00Niveau 1|r - <AHbz,DataA1> vagues à <AHbz,DataB1> dégâts chacune. |n|cffffcc00Niveau 2|r - <AHbz,DataA2> vagues à <AHbz,DataB2> dégâts chacune. |n|cffffcc00Niveau 3|r - <AHbz,DataA3> vagues à <AHbz,DataB3> dégâts chacune."
+  },
+  "RoA_GLOBAL_HEROES_RET_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <ARBQ,DataA1> falling sheep waves; each wave deals <ARBQ,DataB1> damage to units in an area.",
+    "frFR": "Invoque <ARBQ,DataA1> vagues de moutons tombantes ; chaque vague inflige <ARBQ,DataB1> dégâts aux unités dans une zone."
+  },
+  "RoA_GLOBAL_HEROES_RET_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <ARBQ,DataA2> falling sheep waves; each wave deals <ARBQ,DataB2> damage to units in an area.",
+    "frFR": "Invoque <ARBQ,DataA2> vagues de moutons tombantes ; chaque vague inflige <ARBQ,DataB2> dégâts aux unités dans une zone."
+  },
+  "RoA_GLOBAL_HEROES_RET_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down <ARBQ,DataA3> falling sheep waves; each wave deals <ARBQ,DataB3> damage to units in an area.",
+    "frFR": "Invoque des vagues de moutons tombantes <ARBQ,DataA3> ; chaque vague inflige <ARBQ,DataB3> dégâts aux unités dans une zone."
+  },
+  "RoA_GLOBAL_HEROES_RET_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram",
+    "frFR": "Invoquer Bélier"
+  },
+  "RoA_GLOBAL_HEROES_RET_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Summon Ram - [|cffffcc00Level %d|r].",
+    "frFR": "Apprendre Invoquer Bélier - [|cffffcc00Niveau %d|r]."
+  },
+  "RoA_GLOBAL_HEROES_RET_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB1> Rams to fight the Professor's enemies. |nLasts <AOsf,Dur1> seconds. |n|n|cffffcc00Level 1|r - <osw1,realHP> hit points, <osw1,mindmg1> - <osw1,maxdmg1> damage. |n|cffffcc00Level 2|r - <osw2,realHP> hit points, <osw2,mindmg1> - <osw2,maxdmg1> damage and Critical Strike. |n|cffffcc00Level 3|r - <osw3,realHP> hit points, <osw3,mindmg1> - <osw3,maxdmg1> damage, Critical Strike and Devour.",
+    "frFR": "Invoque <AOsf,DataB1> Béliers pour combattre les ennemis du Professeur. |nDure <AOsf,Dur1> secondes. |n|n|cffffcc00Niveau 1|r - <osw1,realHP> points de vie, <osw1,mindmg1> - <osw1,maxdmg1> dégâts. |n|cffffcc00Niveau 2|r - <osw2,realHP> points de vie, <osw2,mindmg1> - <osw2,maxdmg1> dégâts et Coup critique. |n|cffffcc00Niveau 3|r - <osw3,realHP> points de vie, <osw3,mindmg1> - <osw3,maxdmg1> dégâts, Coup critique et Dévoration."
+  },
+  "RoA_GLOBAL_HEROES_RET_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram - [|cffffcc00Level 1|r]",
+    "frFR": "Invoquer Bélier - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram - [|cffffcc00Level 2|r]",
+    "frFR": "Invoquer Bélier - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summon Ram - [|cffffcc00Level 3|r]",
+    "frFR": "Invoquer Bélier - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB1> Ram companions. Each ram has <hSH1,realHP> hit points and deals <hSH1,mindmg1> - <hSH1,maxdmg1> damage. |nLasts <AOsf,Dur1> seconds. |n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Invoque <AOsf,DataB1> Bélier. Chaque bélier a <hSH1,realHP> points de vie et inflige <hSH1,mindmg1> - <hSH1,maxdmg1> dégâts. |nDure <AOsf,Dur1> secondes. |n|n|cffffcc00Attaque les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB2> Ram companions that have Critical Strike. Each ram has <hSH2,realHP> hit points and deals <hSH2,mindmg1> - <hSH2,maxdmg1> damage. |nLasts <AOsf,Dur2> seconds. |n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Invoque <AOsf,DataB2> compagnons Bélier dotés de Coup critique. Chaque bélier possède <hSH2,realHP> points de vie et inflige <hSH2,mindmg1> - <hSH2,maxdmg1> dégâts. |nDure <AOsf,Dur2> secondes. |n|n|cffffcc00Attaque les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons <AOsf,DataB3> Ram companions that have Critical Strike and Devour. Each ram has <hSH3,realHP> hit points and deals <hSH3,mindmg1> - <hSH3,maxdmg1> damage. |nLasts <AOsf,Dur3> seconds. |n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Invoque <AOsf,DataB3> compagnons Bélier dotés de Coup critique et Dévorer. Chaque bélier possède <hSH3,realHP> points de vie et inflige <hSH3,mindmg1> - <hSH3,maxdmg1> dégâts. |nDure <AOsf,Dur3> secondes. |n|n|cffffcc00Attaque les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_HEROES_RET_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Triangulation - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Triangulation - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation - [|cffffcc00Level 1|r]",
+    "frFR": "Triangulation - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation - [|cffffcc00Level 2|r]",
+    "frFR": "Triangulation - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Triangulation - [|cffffcc00Level 3|r]",
+    "frFR": "Triangulation - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_RET_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn.  |n|n|cffffcc00Level 1|r - Lasts <ARUL,HeroDur1> seconds. |n|cffffcc00Level 2|r - Lasts <ARUL,HeroDur2> seconds. |n|cffffcc00Level 3|r - Lasts <ARUL,HeroDur3> seconds.",
+    "frFR": "Le Professeur se divise en 3 guerriers spécialisés. Si l'un d'eux survit jusqu'à la fin de son invocation, le Professeur renaît. |n|n|cffffcc00Niveau 1|r - Dure <ARUL,HeroDur1> secondes. |n|cffffcc00Niveau 2|r - Dure <ARUL,HeroDur2> secondes. |n|cffffcc00Niveau 3|r - Dure <ARUL,HeroDur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_RET_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur1> seconds.",
+    "frFR": "Le Professeur se divise en 3 guerriers spécialisés. Si l'un d'eux survit jusqu'à la fin de son invocation, le Professeur renaît. |nDure <ARUL,HeroDur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_RET_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur2> seconds.",
+    "frFR": "Le Professeur se divise en 3 guerriers spécialisés. Si l'un d'eux survit jusqu'à la fin de son invocation, le Professeur renaît. |nDure <ARUL,HeroDur2> secondes."
+  },
+  "RoA_GLOBAL_HEROES_RET_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Splits the Professor, forming 3 specialized warriors. If any of them survive until the end of their summoned timer, the Professor is reborn. |nLasts <ARUL,HeroDur3> seconds.",
+    "frFR": "Le Professeur se divise en 3 guerriers spécialisés. Si l'un d'eux survit jusqu'à la fin de son invocation, le Professeur renaît. |nDure <ARUL,HeroDur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_RET_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Permanent Polymorph",
+    "frFR": "Métamorphose permanente"
+  },
+  "RoA_GLOBAL_HEROES_RET_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Permanent Polymorph",
+    "frFR": "Métamorphose permanente"
+  },
+  "RoA_GLOBAL_HEROES_RET_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Permanent Polymorph",
+    "frFR": "Apprendre Métamorphose permanente"
+  },
+  "RoA_GLOBAL_HEROES_RET_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes.",
+    "frFR": "Transforme une unité ennemie ciblée en mouton de façon permanente. |nNe peut pas cibler les héros."
+  },
+  "RoA_GLOBAL_HEROES_RET_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turns a target enemy unit into a sheep permanently. |nCannot be cast on Heroes.",
+    "frFR": "Transforme une unité ennemie ciblée en mouton de façon permanente. |nNe peut pas cibler les héros."
+  },
+  "RoA_GLOBAL_HEROES_TME_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "frFR": "Monarque"
+  },
+  "RoA_GLOBAL_HEROES_TME_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "frFR": "Monarque"
+  },
+  "RoA_GLOBAL_HEROES_TME_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Monarch",
+    "frFR": "Monarque"
+  },
+  "RoA_GLOBAL_HEROES_TME_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Royal Aura",
+    "frFR": "Aura royale"
+  },
+  "RoA_GLOBAL_HEROES_TME_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Royal Aura",
+    "frFR": "Aura royale"
+  },
+  "RoA_GLOBAL_HEROES_TME_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is under the effects of Royal Aura; it has an increased movement speed and attack rate.",
+    "frFR": "Cette unité bénéficie des effets de l'Aura Royale ; sa vitesse de déplacement et sa cadence d'attaque sont augmentées."
+  },
+  "RoA_GLOBAL_HEROES_TME_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <ATra,DataA1,%>% and attack rate by <ATra,DataB1,%>%.",
+    "frFR": "Augmente la vitesse de déplacement des unités amies proches de <ATra,DataA1,%>% et le taux d'attaque de <ATra,DataB1,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <ATra,DataA2,%>% and attack rate by <ATra,DataB2,%>%.",
+    "frFR": "Augmente la vitesse de déplacement des unités amies proches de <ATra,DataA2,%>% et le taux d'attaque de <ATra,DataB2,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <ATra,DataA3,%>% and attack rate by <ATra,DataB3,%>%.",
+    "frFR": "Augmente la vitesse de déplacement des unités amies proches de <ATra,DataA3,%>% et le taux d'attaque de <ATra,DataB3,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <A00N,DataA1,%>% and attack rate by <A00N,DataB1,%>%.",
+    "frFR": "Augmente la vitesse de déplacement des unités amies proches de <A00N,DataA1,%>% et le taux d'attaque de <A00N,DataB1,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <A00N,DataA2,%>% and attack rate by <A00N,DataB2,%>%.",
+    "frFR": "Augmente la vitesse de déplacement des unités amies proches de <A00N,DataA2,%>% et le taux d'attaque de <A00N,DataB2,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TME_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases nearby friendly units' movement speed by <A00N,DataA3,%>% and attack rate by <A00N,DataB3,%>%.",
+    "frFR": "Augmente la vitesse de déplacement des unités amies proches de <A00N,DataA3,%>% et le taux d'attaque de <A00N,DataB3,%>%."
+  },
+  "RoA_GLOBAL_HEROES_TUR_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Paladin of Protection",
+    "frFR": "Paladin de Protection"
+  },
+  "RoA_GLOBAL_HEROES_TUR_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Paladin of Protection",
+    "frFR": "Paladin de Protection"
+  },
+  "RoA_GLOBAL_HEROES_TUR_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration",
+    "frFR": "Consécration"
+  },
+  "RoA_GLOBAL_HEROES_TUR_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration",
+    "frFR": "Consécration"
+  },
+  "RoA_GLOBAL_HEROES_TUR_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration",
+    "frFR": "Consécration"
+  },
+  "RoA_GLOBAL_HEROES_TUR_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire which damages ground units in a target area over time. |n|n|cffffcc00Level 1|r - 45 damage a second for 3 seconds, followed by minor damage for 6 seconds. Also allies are healed by <ATcH,DataA1,%>%  per second. |n|cffffcc00Level 2|r - 80 damage a second for 3 seconds, followed by light damage for 6 seconds. Also allies are healed by <ATcH,DataA2,%>%  per second. |n|cffffcc00Level 3|r - 110 damage a second for 3 seconds, followed by moderate damage for 6 seconds. Also allies are healed by <ATcH,DataA3,%>%  per second.",
+    "frFR": "Conjure un pillier de feu sacré infligeant des dégâts sur la durée aux unités terrestres dans la zone ciblée. |n|n|cffffcc00Niveau 1|r - 45 dégâts par seconde pendant 3 secondes, suivis de dégâts mineurs pendant 6 secondes. Les alliés sont également soignés de <ATcH,DataA1,%>% par seconde. |n|cffffcc00Niveau 2|r - 80 dégâts par seconde pendant 3 secondes, suivis de dégâts légers pendant 6 secondes. Les alliés sont également soignés de <ATcH,DataA2,%>% par seconde. |n|cffffcc00Niveau 3|r - 110 dégâts par seconde pendant 3 secondes, suivis de dégâts modérés pendant 6 secondes. Les alliés sont également soignés de <ATcH,DataA3,%>% par seconde."
+  },
+  "RoA_GLOBAL_HEROES_TUR_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire that burns ground units for 45 damage a second for 3 seconds. As the pillar of flame subsides, enemy units within the fire continue to take minor damage, while non-mechanical allies are healed by <ATcH,DataA1,%>%  per second.",
+    "frFR": "Invoque une colonne de feu sacré qui inflige 45 points de dégâts par seconde aux unités terrestres pendant 3 secondes. Lorsque la colonne de flammes se dissipe, les unités ennemies à l'intérieur continuent de subir des dégâts mineurs, tandis que les alliés non mécaniques sont soignés de <ATcH,DataA1,%>% par seconde."
+  },
+  "RoA_GLOBAL_HEROES_TUR_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire  that burns ground units for 80 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take light damage, while non-mechanical allies are healed by <ATcH,DataA2,%>%  per second.",
+    "frFR": "Invoque une colonne de feu sacré qui inflige 80 points de dégâts par seconde aux unités terrestres pendant 3 secondes. Lorsque la colonne de flammes se dissipe, les unités à l'intérieur continuent de subir des dégâts légers, tandis que les alliés non mécaniques sont soignés de <ATcH,DataA2,%>% par seconde."
+  },
+  "RoA_GLOBAL_HEROES_TUR_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Conjures a pillar of holy fire that burns ground units for 110 damage a second for 3 seconds. As the pillar of flame subsides, units within the fire continue to take moderate damage, while non-mechanical allies are healed by <ATcH,DataA3,%>%  per second.",
+    "frFR": "Invoque une colonne de feu sacré qui inflige 110 points de dégâts par seconde aux unités terrestres pendant 3 secondes. Lorsque la colonne de flammes se dissipe, les unités à l'intérieur continuent de subir des dégâts modérés, tandis que les alliés non mécaniques sont soignés de <ATcH,DataA3,%>% par seconde."
+  },
+  "RoA_GLOBAL_HEROES_TUR_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Consecration - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Consécration - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration - [|cffffcc00Level 1|r]",
+    "frFR": "Consécration - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration - [|cffffcc00Level 2|r]",
+    "frFR": "Consécration - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Consecration - [|cffffcc00Level 3|r]",
+    "frFR": "Consécration - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike",
+    "frFR": "Frappe du croisé"
+  },
+  "RoA_GLOBAL_HEROES_TUR_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike",
+    "frFR": "Frappe du croisé"
+  },
+  "RoA_GLOBAL_HEROES_TUR_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Crusader Strike - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Frappe du croisé - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike - [|cffffcc00Level 1|r]",
+    "frFR": "Frappe du croisé - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike - [|cffffcc00Level 2|r]",
+    "frFR": "Frappe du croisé - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Crusader Strike - [|cffffcc00Level 3|r]",
+    "frFR": "Frappe du croisé - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is afflicted by Crusader Strike. It cannot cast spells, attacks for less damage, and will take damage over time.",
+    "frFR": "Cette unité est affectée par Frappe du croisé. Elle ne peut pas lancer de sorts, ses attaques infligent moins de dégâts et elle subit des dégâts sur la durée."
+  },
+  "RoA_GLOBAL_HEROES_TUR_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause damage over time, prevent the casting of spells, and reduce attack damage by <APEM,DataC1,%>%.|n|n|cffffcc00Level 1|r - 100 damage over <APEM,Dur1> seconds.|n|cffffcc00Level 2|r - 225 damage over <APEM,Dur2> seconds.|n|cffffcc00Level 3|r - 375 damage over <APEM,Dur3> seconds.|n|nLasts roughly half as long on Heroes.",
+    "frFR": "Enveloppe une unité ennemie de flammes sacrées qui infligent des dégâts sur la durée, empêchent le lancement de sorts et réduisent les dégâts d'attaque de <APEM,DataC1,%>%.|n|n|cffffcc00Niveau 1|r - 100 dégâts sur <APEM,Dur1> secondes.|n|cffffcc00Niveau 2|r - 225 dégâts sur <APEM,Dur2> secondes.|n|cffffcc00Niveau 3|r - 375 dégâts sur <APEM,Dur3> secondes.|n|nDure environ deux fois moins longtemps sur les Héros."
+  },
+  "RoA_GLOBAL_HEROES_TUR_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause <APEM,DataA1> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC1,%>%.|nLasts <APEM,Dur1> seconds.",
+    "frFR": "Enveloppe une unité ennemie de flammes sacrées qui infligent <APEM,DataA1> dégâts par seconde, empêchent le lancement de sorts et réduisent les dégâts d'attaque de <APEM,DataC1,%>%.|nDure <APEM,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_TUR_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause <APEM,DataA2> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC2,%>%.|nLasts <APEM,Dur2> seconds.",
+    "frFR": "Enveloppe une unité ennemie de flammes sacrées qui infligent <APEM,DataA2> dégâts par seconde, empêchent le lancement de sorts et réduisent les dégâts d'attaque de <APEM,DataC2,%>%.|nDure <APEM,Dur2> secondes."
+  },
+  "RoA_GLOBAL_HEROES_TUR_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wreaths an enemy unit in holy flames which cause <APEM,DataA3> damage per second, prevent the casting of spells, and reduce attack damage by <APEM,DataC3,%>%.|nLasts <APEM,Dur3> seconds.",
+    "frFR": "Enveloppe une unité ennemie de flammes sacrées qui infligent <APEM,DataA3> dégâts par seconde, empêchent le lancement de sorts et réduisent les dégâts d'attaque de <APEM,DataC3,%>%.|nDure <APEM,Dur3> secondes."
+  },
+  "RoA_GLOBAL_HEROES_TUR_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield of the Righteous",
+    "frFR": "Égide des justes"
+  },
+  "RoA_GLOBAL_HEROES_TUR_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield of the Righteous",
+    "frFR": "Égide des justes"
+  },
+  "RoA_GLOBAL_HEROES_TUR_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield of the Righteous",
+    "frFR": "Égide des justes"
+  },
+  "RoA_GLOBAL_HEROES_TUR_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Shield of the Righteous - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Égide des justes - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon lifted his Shield; it is temporarily protected from physical damage and negative spells.",
+    "frFR": "Turalyon leva son bouclier ; il est temporairement protégé des dégâts physiques et des sorts négatifs."
+  },
+  "RoA_GLOBAL_HEROES_TUR_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lift Shield of the Righteous - [|cffffcc00Level 1|r]",
+    "frFR": "Lever Égide des justes - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lift Shield of the Righteous - [|cffffcc00Level 2|r]",
+    "frFR": "Lever Égide des justes - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lift Shield of the Righteous - [|cffffcc00Level 3|r]",
+    "frFR": "Lever Égide des justes - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_TUR_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Turalyon lifts his shield that absorbs all damage by consuming his mana. |n|n|cffffcc00Level 1|r - <ATsR,DataA1> damage per point of mana. |n|cffffcc00Level 2|r - <ATsR,DataA2> damage per point of mana. |n|cffffcc00Level 3|r - <ATsR,DataA3> damage per point of mana.",
+    "frFR": "Turalyon lève son bouclier qui absorbe tous les dégâts en consommant son mana. |n|n|cffffcc00Niveau 1|r - <ATsR,DataA1> dégâts par point de mana. |n|cffffcc00Niveau 2|r - <ATsR,DataA2> dégâts par point de mana. |n|cffffcc00Niveau 3|r - <ATsR,DataA3> dégâts par point de mana."
+  },
+  "RoA_GLOBAL_HEROES_TUR_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lifts a shield that absorbs <ATsR,DataA1> damage per point of mana.",
+    "frFR": "Lève un bouclier qui absorbe <ATsR,DataA1> dégâts par point de mana."
+  },
+  "RoA_GLOBAL_HEROES_TUR_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lifts a shield that absorbs <ATsR,DataA2> damage per point of mana.",
+    "frFR": "Lève un bouclier qui absorbe <ATsR,DataA2> dégâts par point de mana."
+  },
+  "RoA_GLOBAL_HEROES_TUR_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lifts a shield that absorbs <ATsR,DataA3> damage per point of mana.",
+    "frFR": "Lève un bouclier qui absorbe <ATsR,DataA3> dégâts par point de mana."
+  },
+  "RoA_GLOBAL_HEROES_UTL_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "frFR": "Seigneur Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "frFR": "Seigneur Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lord Paladin",
+    "frFR": "Seigneur Paladin"
+  },
+  "RoA_GLOBAL_HEROES_UTL_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave",
+    "frFR": "Vague de soins"
+  },
+  "RoA_GLOBAL_HEROES_UTL_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Holy Wave - [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Vague de soins - [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave - [|cffffcc00Level 1|r]",
+    "frFR": "Vague de soins - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave - [|cffffcc00Level 2|r]",
+    "frFR": "Vague de soins - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Wave - [|cffffcc00Level 3|r]",
+    "frFR": "Vague de soins - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of energy that heals a target and bounces to nearby friendlies. Each bounce restores fewer hit points. |n|n|cffffcc00Level 1|r - Heals <AUaW,DataA1> damage, jumps <AUaW,DataB1> times. |n|cffffcc00Level 2|r - Heals <AUaW,DataA2> damage, jumps <AUaW,DataB2> times. |n|cffffcc00Level 3|r - Heals <AUaW,DataA3> damage, jumps <AUaW,DataB3> times.",
+    "frFR": "Invoque une vague d'énergie qui soigne une cible et rebondit sur les alliés proches. Chaque rebond restaure moins de points de vie. |n|n|cffffcc00Niveau 1|r - Soigne <AUaW,DataA1> points de dégâts, effectue <AUaW,DataB1> sauts. |n|cffffcc00Niveau 2|r - Soigne <AUaW,DataA2> points de dégâts, effectue <AUaW,DataB2> sauts. |n|cffffcc00Niveau 3|r - Soigne <AUaW,DataA3> points de dégâts, effectue <AUaW,DataB3> sauts."
+  },
+  "RoA_GLOBAL_HEROES_UTL_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB1> times, healing <AUaW,DataA1> damage on the primary target. Each bounce restores fewer hit points.",
+    "frFR": "Invoque une vague d'énergie curative qui rebondit jusqu'à <AUaW,DataB1> fois, soignant <AUaW,DataA1> points de vie de la cible principale. Chaque rebond restaure un nombre décroissant de points de vie."
+  },
+  "RoA_GLOBAL_HEROES_UTL_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB2> times, healing <AUaW,DataA2> damage on the primary target. Each bounce restores fewer hit points.",
+    "frFR": "Invoque une vague d'énergie curative qui rebondit jusqu'à <AUaW,DataB2> fois, soignant <AUaW,DataA2> points de vie de la cible principale. Chaque rebond restaure un nombre décroissant de points de vie."
+  },
+  "RoA_GLOBAL_HEROES_UTL_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls forth a wave of healing energy that bounces up to <AUaW,DataB3> times, healing <AUaW,DataA3> damage on the primary target. Each bounce restores fewer hit points.",
+    "frFR": "Invoque une vague d'énergie curative qui rebondit jusqu'à <AUaW,DataB3> fois, soignant <AUaW,DataA3> points de vie de la cible principale. Chaque rebond restaure un nombre décroissant de points de vie."
+  },
+  "RoA_GLOBAL_HEROES_UTL_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice",
+    "frFR": "Marteau de Justice"
+  },
+  "RoA_GLOBAL_HEROES_UTL_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Hammer of Justice",
+    "frFR": "Apprendre Marteau de Justice"
+  },
+  "RoA_GLOBAL_HEROES_UTL_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice - [|cffffcc00Level 1|r]",
+    "frFR": "Marteau de Justice - [|cffffcc00Niveau 1|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice - [|cffffcc00Level 2|r]",
+    "frFR": "Marteau de Justice - [|cffffcc00Niveau 2|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Hammer of Justice - [|cffffcc00Level 3|r]",
+    "frFR": "Marteau de Justice - [|cffffcc00Niveau 3|r]"
+  },
+  "RoA_GLOBAL_HEROES_UTL_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00250|r",
+    "frFR": "Le Marteau de la Lumière apparait dans les cieux, s'écrasant au sol après un court instant. Les cibles prises dans la zone d'impact subissent de lourds dégâts.\n\nTemps d'incantation : |cffffcc004s|r\nDégâts : |cffffcc00250|r"
+  },
+  "RoA_GLOBAL_HEROES_UTL_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crashing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: 5s\nDamage: 150 / 200 / 250",
+    "frFR": "Le Marteau de la Lumière apparait dans les cieux, s'écrasant au sol après un court instant. Les cibles prises dans la zone d'impact subissent de lourds dégâts. \n\nTemps d'incantation : 5s\nDégâts : 150 / 200 / 250"
+  },
+  "RoA_GLOBAL_HEROES_UTL_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00150|r",
+    "frFR": "Le Marteau de la Lumière apparait dans les cieux, s'écrasant au sol après un court instant. Les cibles prises dans la zone d'impact subissent de lourds dégâts.\n\nTemps d'incantation : |cffffcc004s|r\nDégâts : |cffffcc00150|r"
+  },
+  "RoA_GLOBAL_HEROES_UTL_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Hammer of Light appears in the sky, crushing to the ground after a brief period. Targets caught in the impact will receive massive damage.\n\nCast Time: |cffffcc004s|r\nDamage: |cffffcc00200|r",
+    "frFR": "Le Marteau de la Lumière apparait dans les cieux, s'écrasant au sol après un court instant. Les cibles prises dans la zone d'impact subissent de lourds dégâts.\n\nTemps d'incantation : |cffffcc004s|r\nDégâts : |cffffcc00200|r"
+  },
+  "RoA_GLOBAL_HEROES_UTL_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Storm",
+    "frFR": "Tempête divine"
+  },
+  "RoA_GLOBAL_HEROES_UTL_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Holy Storm",
+    "frFR": "Apprendre Tempête divine"
+  },
+  "RoA_GLOBAL_HEROES_UTL_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down waves of holy flares that damage nearby enemy units. Each wave deals <AUhs,DataA1> damage. |nLasts for <AUhs,Dur1> seconds.",
+    "frFR": "Invoque des vagues de flammes sacrées qui infligent des dégâts aux unités ennemies proches. Chaque vague inflige<AUhs,DataA1> points de dégâts. |nDure <AUhs,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_UTL_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Calls down a wave of holy flares every <AUhs,DataB1> seconds that damages nearby enemy units. Each wave deals <AUhs,DataA1> damage. |nLasts for <AUhs,Dur1> seconds.",
+    "frFR": "Invoque une vague de flammes sacrées toutes les <AUhs,DataB1> secondes, infligeant des dégâts aux unités ennemies proches. Chaque vague inflige <AUhs,DataA1> points de dégâts. |nDure <AUhs,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_WIL_002": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wilhelm is a veteran captain that defended Stormwind alongside with Meryn. After exodus to Lordaeron he serves Anduin Lothar as his personal bodyguard.",
+    "frFR": "Wilhelm est un capitaine vétéran du conflit à Stormwind aux côtés de Meryn. Depuis son exode vers Lordaeron, il sert Anduin Lothar comme garde du corps personnel."
+  },
+  "RoA_GLOBAL_HEROES_WIL_003": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AIDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AIDe,DataC1,%>% of normal speed.",
+    "frFR": "Activer pour ne subir que <AIDe,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <AIDe,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_004": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <ADDe,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <ADDe,DataC1,%>% of normal speed.",
+    "frFR": "Activez pour ne subir que <ADDe,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <ADDe,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_005": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AEDE,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AEDE,DataC1,%>% of normal speed.",
+    "frFR": "Activer to take only <AEDE,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AEDE,DataC1,%>% of normal speed."
+  },
+  "RoA_GLOBAL_HEROES_WIL_006": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <A024,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <A024,DataC1,%>% of normal speed.",
+    "frFR": "L'actif ne subit que <A024,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est active, la vitesse de déplacement est réduite de <A024,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_007": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AE1O,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AE1O,DataC1,%>% of normal speed.",
+    "frFR": "Activer pour ne subir que <AE1O,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est active, la vitesse de déplacement est réduite de <AE1O,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_008": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD2,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD2,DataC1,%>% of normal speed.",
+    "frFR": "Activer permet de ne subit que <AAD2,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <AAD2,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_009": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD3,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD3,DataC1,%>% of normal speed.",
+    "frFR": "Activer pour ne subir que <AAD3,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <AAD3,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_010": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD4,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD4,DataC1,%>% of normal speed.",
+    "frFR": "Activer pour ne subir que <AAD4,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <AAD4,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_011": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD5,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD5,DataC1,%>% of normal speed.",
+    "frFR": "Activer pour ne subir que <AAD5,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <AAD5,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_012": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AAD6,DataA1,%>% of the damage from Piercing attacks. While Defend is active, movement is reduced by <AAD6,DataC1,%>% of normal speed.",
+    "frFR": "Activer pour ne subir que <AAD6,DataA1,%>% des dégâts des attaques perforantes. Tant que Défense est actif, la vitesse de déplacement est réduite de <AAD6,DataC1,%>% de la vitesse normale."
+  },
+  "RoA_GLOBAL_HEROES_WIL_013": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lion Song",
+    "frFR": "Chant du lion"
+  },
+  "RoA_GLOBAL_HEROES_WIL_014": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lion Song",
+    "frFR": "Chant du lion"
+  },
+  "RoA_GLOBAL_HEROES_WIL_015": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Learn Lion Song  [|cffffcc00Level %d|r]",
+    "frFR": "Apprendre Chant du lion  [|cffffcc00Niveau %d|r]"
+  },
+  "RoA_GLOBAL_HEROES_WIL_016": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Wilhelm sends a battlecry that reduces nearby enemy units' attack damage by <A621,DataA1,%>% for <A621,Dur1> seconds.",
+    "frFR": "Wilhelm lance un cri de guerre qui réduit les dégâts d'attaque des unités ennemies proches de <A621,DataA1,%>% pendant <A621,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_WIL_017": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has heard the Lion Song; it deals less damage for a duration.",
+    "frFR": "Cette unité a entendu le Chant du lion ; elle inflige moins de dégâts pendant une certaine durée."
+  },
+  "RoA_GLOBAL_HEROES_WIL_018": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Second Chance",
+    "frFR": "Seconde Chance"
+  },
+  "RoA_GLOBAL_HEROES_WIL_019": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Second Chance",
+    "frFR": "Seconde Chance"
+  },
+  "RoA_GLOBAL_HEROES_WIL_020": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Unit plays dead, in order to restore health and come back to fight. Ability has a <A61V,Cool1> second cooldown.",
+    "frFR": "L'unité simule la mort pour récupérer des points de vie et revenir au combat. Cette capacité a un temps de recharge de <A61V,Cool1> seconde."
+  },
+  "RoA_GLOBAL_HEROES_WIL_021": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gavinrad the Dire",
+    "frFR": "Gavinrad"
+  },
+  "RoA_GLOBAL_HEROES_WIL_022": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "frFR": "Mot de soin"
+  },
+  "RoA_GLOBAL_HEROES_WIL_023": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "frFR": "Mot de soin"
+  },
+  "RoA_GLOBAL_HEROES_WIL_024": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "frFR": "Mot de soin"
+  },
+  "RoA_GLOBAL_HEROES_WIL_025": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Healing Word",
+    "frFR": "Mot de soin"
+  },
+  "RoA_GLOBAL_HEROES_WIL_026": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit has heard Healing Word; it is healing hit points over time.",
+    "frFR": "Cette unité a reçu le mot de soin ; elle soigne ses points de vie au fil du temps."
+  },
+  "RoA_GLOBAL_HEROES_WIL_027": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <AWhR,DataA1> hit points over <AWhR,Dur1> seconds.",
+    "frFR": "Soigne une unité alliée ciblée de <AWhR,DataA1> points de vie en <AWhR,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_WIL_028": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <AGah,DataA1> hit points over <AGah,Dur1> seconds.",
+    "frFR": "Soigne une unité alliée ciblée de <AGah,DataA1> points de vie en <AGah,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_WIL_029": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Heals a target friendly unit for <ABHp,DataA1> hit points over <ABHp,Dur1> seconds.",
+    "frFR": "Soigne une unité alliée ciblée de <ABHp,DataA1> points de vie en <ABHp,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_WIL_030": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Lance",
+    "frFR": "Lance sacrée"
+  },
+  "RoA_GLOBAL_HEROES_WIL_031": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Lance",
+    "frFR": "Lance sacrée"
+  },
+  "RoA_GLOBAL_HEROES_WIL_032": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The pure essence of the casters heart, mind, and soul strikes out dealing <AGhl,DataA1>  damage and stunning target for <AGhl,Dur1> seconds.",
+    "frFR": "L'essence pure du cœur, de l'esprit et de l'âme du lanceur frappe, infligeant <AGhl,DataA1> dégâts et étourdissant la cible pendant <AGhl,Dur1> secondes."
+  },
+  "RoA_GLOBAL_HEROES_WIL_033": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "frFR": "Aura de Vindicte"
+  },
+  "RoA_GLOBAL_HEROES_WIL_034": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "frFR": "Aura de Vindicte"
+  },
+  "RoA_GLOBAL_HEROES_WIL_035": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "frFR": "Aura de Vindicte"
+  },
+  "RoA_GLOBAL_HEROES_WIL_036": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Vengeance Aura",
+    "frFR": "Aura de Vindicte"
+  },
+  "RoA_GLOBAL_HEROES_WIL_037": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "An aura that gives nearby friendly land units a <AGva,DataA1,%>% bonus damage to their melee attacks.",
+    "frFR": "Une aura qui donne aux unités terrestres amies proches un bonus de dégâts <AGva,DataA1,%>% à leurs attaques de mêlée."
+  },
+  "RoA_GLOBAL_HEROES_WIL_038": {
+    "type": "HEROES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is under the effects of Vengeance Aura; its melee attacks will deal more damage.",
+    "frFR": "Cette unité est sous l'effet de l'Aura de Vindicte ; ses attaques de mêlée infligeront davantage de dégâts."
+  },
+  "RoA_GLOBAL_MENU_002": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sir Lothar, in charge of the scattered armies of Azeroth since the death of King Llane, has led his people across the Great Sea to the shores of Lordaeron.",
+    "frFR": "Sir Lothar, à la tête des armées dispersées d'Azeroth depuis la mort du roi Llane, a conduit son peuple à travers la Grande Mer jusqu'aux rivages de Lordaeron."
+  },
+  "RoA_GLOBAL_MENU_003": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Varies",
+    "frFR": "Variable"
+  },
+  "RoA_GLOBAL_MENU_004": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Cinematic Act I",
+    "frFR": "Cinématique I"
+  },
+  "RoA_GLOBAL_MENU_006": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter One",
+    "frFR": "Chapitre Un"
+  },
+  "RoA_GLOBAL_MENU_007": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battle for Lordaeron",
+    "frFR": "La bataille de Lordaeron"
+  },
+  "RoA_GLOBAL_MENU_008": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Two",
+    "frFR": "Chaptitre Deux"
+  },
+  "RoA_GLOBAL_MENU_009": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ambush at Tarren Mill",
+    "frFR": "Embuscade à Tarren Mill"
+  },
+  "RoA_GLOBAL_MENU_010": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Three",
+    "frFR": "Chaptitre Trois"
+  },
+  "RoA_GLOBAL_MENU_011": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Siege of Dalaran",
+    "frFR": "Le siège de Dalaran"
+  },
+  "RoA_GLOBAL_MENU_012": {
+    "type": "MENU",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Chapter Four",
+    "frFR": "Chaptitre Quatre"
+  },
+  "RoA_GLOBAL_UNITS_001": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elite guardsman of the royal family. |n|n|cffffcc00Abilities:|r Defend, Long Blades.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Garde d'élite de la famille royale. |n|n|cffffcc00Compétences:|r Defense, Longues lames.|nDébloque l'amélioration - Entraînement de mêlée en alliance.|n|n|cffffcc00Attaque les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_UNITS_002": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Long Blades",
+    "frFR": "Longues lames"
+  },
+  "RoA_GLOBAL_UNITS_003": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Long Blades",
+    "frFR": "Longues lames"
+  },
+  "RoA_GLOBAL_UNITS_004": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The long blade that causes <ALob,DataA1,%>% of this unit's attack damage to splash towards enemies near its primary target.",
+    "frFR": "La longue lame qui provoque des dégâts d'attaque de <ALob,DataA1,%>% de cette unité vers les ennemis proches de sa cible principale."
+  },
+  "RoA_GLOBAL_UNITS_005": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defender of Faith",
+    "frFR": "Défenseur de la foi"
+  },
+  "RoA_GLOBAL_UNITS_006": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elite soldier of the Silver Hand order. |n|n|cffffcc00Abilities:|r Holy Defense, Long Blades.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Soldat d'élite de l'ordre de la Main d'Argent. |n|n|cffffcc00ACompétences :|r Défense sacrée, Longues lames.|nDébloque l'amélioration - Entraînement de mêlée en alliance.|n|n|cffffcc00Attaque les unités terrestres.|r"
+  },
+  "RoA_GLOBAL_UNITS_007": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Defense",
+    "frFR": "Défense sacrée"
+  },
+  "RoA_GLOBAL_UNITS_008": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Holy Defense",
+    "frFR": "Défense sacrée"
+  },
+  "RoA_GLOBAL_UNITS_009": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <AfDd,DataA1,%>% of the damage from Piercing attacks and gain magic immunity, but have <AfDd,DataC1,%>% reduced movement speed.",
+    "frFR": "Activer pour ne subir que <AfDd,DataA1,%>% des dégâts des attaques perforantes et gagner l'immunité magique, mais avec une vitesse de déplacement réduite de <AfDd,DataC1,%>%."
+  },
+  "RoA_GLOBAL_UNITS_010": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Activate to take only <Amdf,DataH1,%>% of the damage from Magic attacks and no damage from Piercing attacks, but have <Amdf,DataC1,%>% reduced movement speed.",
+    "frFR": "Activer pour ne subir que <Amdf,DataH1,%>% des dégâts des attaques magiques et aucun dégât des attaques perforantes, mais avec une vitesse de déplacement réduite de <Amdf,DataC1,%>%."
+  },
+  "RoA_GLOBAL_UNITS_011": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Stop Holy Defense",
+    "frFR": "Arrêter Défense sacrée"
+  },
+  "RoA_GLOBAL_UNITS_012": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Deactivate to move at normal speed, but take full damage from spells and piercing attacks.",
+    "frFR": "Désactiver to move at normal speed, but take full damage from spells and piercing attacks."
+  },
+  "RoA_GLOBAL_UNITS_013": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Regional Defender",
+    "frFR": "Défenseur régional"
+  },
+  "RoA_GLOBAL_UNITS_014": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Guard Dog",
+    "frFR": "Chien de garde"
+  },
+  "RoA_GLOBAL_UNITS_015": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Man at Arms",
+    "frFR": "Conscrit"
+  },
+  "RoA_GLOBAL_UNITS_016": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Man at Arms",
+    "frFR": "Entraîner Conscrit"
+  },
+  "RoA_GLOBAL_UNITS_017": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons Man at Arms to fight at your side.",
+    "frFR": "Invoque un Conscrit pour combattre à vos côtés."
+  },
+  "RoA_GLOBAL_UNITS_018": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Summons from 1 to 2 Man at Arms or Arbalists to fight at your side.",
+    "frFR": "Invoque 1 à 2 Conscrits ou Arbalétriers pour combattre à vos côtés."
+  },
+  "RoA_GLOBAL_UNITS_019": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Veteran Skills",
+    "frFR": "Compétences de vétéran"
+  },
+  "RoA_GLOBAL_UNITS_020": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Gives a <AfSc,DataA1>% chance to do <AfSc,DataB1> times normal damage on an attack.",
+    "frFR": "Donne <AfSc,DataA1>% de chances d'infliger <AfSc,DataB1> fois les dégâts normaux lors d'une attaque."
+  },
+  "RoA_GLOBAL_UNITS_021": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Scout",
+    "frFR": "Éclaireur"
+  },
+  "RoA_GLOBAL_UNITS_022": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Highly skilled ranged scout from Ironforge, effective against air units. |n|n|cffffcc00Attacks land and air units.|r",
+    "frFR": "Éclaireur à distance hautement qualifié d'Ironforge, efficace contre les unités aériennes. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r"
+  },
+  "RoA_GLOBAL_UNITS_023": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dwarf",
+    "frFR": "Nain"
+  },
+  "RoA_GLOBAL_UNITS_024": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bowman",
+    "frFR": "Archer"
+  },
+  "RoA_GLOBAL_UNITS_025": {
+    "type": "UNITS",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "Train Bowman",
+    "frFR": "Entraîner Archer"
+  },
+  "RoA_GLOBAL_UNITS_026": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Versatile ranged soldier. |n|n|cffffcc00Abilities:|r Longbow.|nUnlocked by upgrade - Imrpoved Ranged Weapons. |n|n|cffffcc00Attacks land and air units.|r",
+    "frFR": "Soldat à distance polyvalent. |n|n|cffffcc00Compétences :|r Arcs longs.|nDébloqué par amélioration - Armes à distance améliorées. |n|n|cffffcc00Attaque les unités terrestres et aériennes.|r"
+  },
+  "RoA_GLOBAL_UNITS_027": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Longbow",
+    "frFR": "Arcs longs"
+  },
+  "RoA_GLOBAL_UNITS_028": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Longbow",
+    "frFR": "Arcs longs"
+  },
+  "RoA_GLOBAL_UNITS_029": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Longbow",
+    "frFR": "Arcs longs"
+  },
+  "RoA_GLOBAL_UNITS_030": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "frFR": "Augmente la portée d'attaque de 200."
+  },
+  "RoA_GLOBAL_UNITS_031": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "frFR": "Augmente la portée d'attaque de 200."
+  },
+  "RoA_GLOBAL_UNITS_032": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "frFR": "Augmente la portée d'attaque de 200."
+  },
+  "RoA_GLOBAL_UNITS_033": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Increases attack range by 200.",
+    "frFR": "Augmente la portée d'attaque de 200."
+  },
+  "RoA_GLOBAL_UNITS_034": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Trooper",
+    "frFR": "Troupier"
+  },
+  "RoA_GLOBAL_UNITS_039": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Kul Tiran soldier is trained to respond instantly to every blow. Returns |cffffcc00<AKpR,DataA1,%>%|r of melee damage taken back to the attacker.",
+    "frFR": "Le soldat de Kul'Tiras est entraîné à réagir instantanément à chaque coup. Rend à l'attaquant |cffffcc00<AKpR,DataA1,%>%|r des dégâts de mêlée subis."
+  },
+  "RoA_GLOBAL_UNITS_040": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Returns |cffffcc0010%|r of melee damage taken.",
+    "frFR": "Renvoie |cffffcc0010%|r des dégâts de mêlée subis."
+  },
+  "RoA_GLOBAL_UNITS_042": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Footmen are the initial line of defense against the Horde.|n|n|cffffcc00Abilities:|r Defend.|nUnlocked by upgrade - Alliance Melee Training.|n|n|cffffcc00Attacks land units.|r",
+    "frFR": "Les fantassins constituent la première ligne de défense contre la Horde.|n|n|cffffcc00Compétences :|r Défense.|nDébloqué par l'amélioration - Entraînement au corps à corps de l'Alliance.|n|n|cffffcc00Attaque des unités terrestres.|r"
+  },
+  "RoA_GLOBAL_UNITS_043": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Frigate",
+    "frFR": "Frégate"
+  },
+  "RoA_GLOBAL_UNITS_044": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_045": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_046": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_047": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_048": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_049": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_050": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Battleship",
+    "frFR": "Cuirassé"
+  },
+  "RoA_GLOBAL_UNITS_051": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Elven Archer",
+    "frFR": "Archer elfe"
+  },
+  "RoA_GLOBAL_UNITS_052": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Elven Archer",
+    "frFR": "Entraîner Archer elfe"
+  },
+  "RoA_GLOBAL_UNITS_053": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sylvan Craftsman",
+    "frFR": "Ingénieur sylvestre"
+  },
+  "RoA_GLOBAL_UNITS_054": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Sylvan Craftsmen are the diligent workers from Quel’Thalas. They harvest gold and lumber, construct buildings, and perform repairs with practiced skill.|n|n|cffffcc00Attacks land units and trees.|r",
+    "frFR": "Les artisans sylvestres sont les travailleurs assidus de Quel'Thalas. Ils récoltent l'or et le bois, construisent des bâtiments et effectuent des réparations avec une grande habileté.|n|n|cffffcc00Attaque les unités terrestres et les arbres.|r"
+  },
+  "RoA_GLOBAL_UNITS_055": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Train Sylvan Craftsman",
+    "frFR": "Entraîner Ingénieur elfique"
+  },
+  "RoA_GLOBAL_UNITS_058": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Axethrower",
+    "frFR": "Lanceur de haches troll"
+  },
+  "RoA_GLOBAL_UNITS_059": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Axethrower",
+    "frFR": "Lanceur de haches troll"
+  },
+  "RoA_GLOBAL_UNITS_063": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "This unit is in Rage; it's speed and attack rates are increased, but it will also take more damage from attacks.",
+    "frFR": "Cette unité est Enragée ; sa vitesse et sa cadence d'attaque sont augmentées, mais elle subira également plus de dégâts des attaques."
+  },
+  "RoA_GLOBAL_UNITS_064": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Berserker",
+    "frFR": "Berserker Troll "
+  },
+  "RoA_GLOBAL_UNITS_065": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Destroyer",
+    "frFR": "Destroyer troll"
+  },
+  "RoA_GLOBAL_UNITS_066": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Troll Destroyer",
+    "frFR": "Destroyer troll"
+  },
+  "RoA_GLOBAL_UNITS_068": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Apprentice, Adept, Master",
+    "frFR": "Apprenti, Adepte, Maître"
+  },
+  "RoA_GLOBAL_UNITS_070": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Magi Training",
+    "frFR": "Entrainement des Ogres Magi"
+  },
+  "RoA_GLOBAL_UNITS_071": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ogre Magi Training",
+    "frFR": "Entrainement des Ogres Magi"
+  },
+  "RoA_GLOBAL_UNITS_072": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "- Eye of Kilrogg,- Eye of Kilrogg|n- Bloodlust,- Eye of Kilrogg|n- Bloodlust|n- Runes",
+    "frFR": "- Œil de Kilrogg,- Œil de Kilrogg|n- Frénésie sanguinaire,- Œil de Kilrogg|n- Frénésie sanguinaire|n- Runes"
+  },
+  "RoA_GLOBAL_UNITS_073": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Sappers",
+    "frFR": "Sapeurs gobelin"
+  },
+  "RoA_GLOBAL_UNITS_074": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Sappers",
+    "frFR": "Sapeurs gobelin"
+  },
+  "RoA_GLOBAL_UNITS_075": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Death Knight",
+    "frFR": "Chevalier de la mort"
+  },
+  "RoA_GLOBAL_UNITS_076": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Death Knight",
+    "frFR": "Chevalier de la mort"
+  },
+  "RoA_GLOBAL_UNITS_077": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Unholy",
+    "frFR": "Impie"
+  },
+  "RoA_GLOBAL_UNITS_078": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Initiate, Adept, Master, Necromancer",
+    "frFR": "Initié, Adepte, Maître, Nécromancien"
+  },
+  "RoA_GLOBAL_UNITS_079": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Initiate, Adept, Master, Necromancer",
+    "frFR": "Initié, Adepte, Maître, Nécromancien"
+  },
+  "RoA_GLOBAL_UNITS_080": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind",
+    "frFR": "- Toucher des ténèbres|n- Réanimation,- Toucher des ténèbres|n- Réanimation|n- Voile mortel|n-Armure impie,- Toucher des ténèbres|n- Réanimation|n- Voile mortel|n-Armure Impie|n- Mort et décomposition|n- Hâte,- Toucher des ténèbres|n- Réanimation|n- Voile mortel|n-Armure Impie|n- Mort et décomposition|n- Hâte|n- Tourbillon"
+  },
+  "RoA_GLOBAL_UNITS_081": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "- Touch of Darkness|n- Rise dead,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste,- Touch of Darkness|n- Rise dead|n- Death Coil|n-Unholy Armor|n- Death and Decay|n- Haste|n- Whirlwind",
+    "frFR": "- Toucher des ténèbres|n- Réanimation,- Toucher des ténèbres|n- Réanimation|n- Voile mortel|n-Armure impie,- Toucher des ténèbres|n- Réanimation|n- Voile mortel|n-Armure Impie|n- Mort et décomposition|n- Hâte,- Toucher des ténèbres|n- Réanimation|n- Voile mortel|n-Armure Impie|n- Mort et décomposition|n- Hâte|n- Tourbillon"
+  },
+  "RoA_GLOBAL_UNITS_082": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Undead",
+    "frFR": "Mort-vivant"
+  },
+  "RoA_GLOBAL_UNITS_083": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Undead",
+    "frFR": "Mort-vivant"
+  },
+  "RoA_GLOBAL_UNITS_085": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Kor'kron Guard",
+    "frFR": "Garde Kor'kron"
+  },
+  "RoA_GLOBAL_UNITS_086": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "frFR": "Catapulte"
+  },
+  "RoA_GLOBAL_UNITS_087": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "frFR": "Catapulte"
+  },
+  "RoA_GLOBAL_UNITS_088": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Catapult",
+    "frFR": "Catapulte"
+  },
+  "RoA_GLOBAL_UNITS_090": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Goblin Alchemist",
+    "frFR": "Alchimiste gobelin"
+  },
+  "RoA_GLOBAL_UNITS_091": {
+    "type": "UNITS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Bonecrusher",
+    "frFR": "Broyeur d'os"
+  }
+}

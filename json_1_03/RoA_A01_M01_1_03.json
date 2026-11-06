@@ -1,0 +1,1367 @@
+{
+  "RoA_A01_M01_BUILDINGS_001": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron Guard Tower",
+    "frFR": "Tour de garde de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_002": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron Guard Tower",
+    "frFR": "Tour de garde de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_003": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_004": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_005": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_006": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_007": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_008": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_009": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron City Building",
+    "frFR": "Bâtiment de Lordaeron"
+  },
+  "RoA_A01_M01_BUILDINGS_010": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_011": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_012": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_013": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_014": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_015": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_016": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_017": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_BUILDINGS_018": {
+    "type": "BUILDINGS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "High Elven Manor",
+    "frFR": "Manoir Haut Elfe"
+  },
+  "RoA_A01_M01_MESS_001": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nRoyal Guard - elite soldiers of Lordaeron, trained to fight with halberds, giving them greater attack range than footmen. They also carry shields for defense.",
+    "frFR": "|cff87ceebRENFORTS|r\nGarde royal - Des soldats d'élite de Lordaeron, rompus au combat à la hallebarde, disposant d'une plus grande portée d'attaque qu'un fantassin. Peuvent se défendre au bouclier. "
+  },
+  "RoA_A01_M01_MESS_002": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nTerenas can help you carry items. But be warned, he can use some of them to heal himself.",
+    "frFR": "|cff32cd32ASTUCE|r\nTerenas peut vous aider à transporter des objets. Mais attention, il peut en utiliser certains pour se soigner."
+  },
+  "RoA_A01_M01_MESS_003": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nFind a key or pull a lever to open locked doors.",
+    "frFR": "|cff32cd32ASTUCE|r\nTrouvez une clé ou actionnez un levier pour ouvrir les portes verrouillées."
+  },
+  "RoA_A01_M01_MESS_004": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW HEROES|r\nTuralyon - One of the first Priests of Lordaeron trained as a Paladin by Uther the Lightbringer. He is a staunch believer in maintaining order through strict martial discipline.",
+    "frFR": "|cff8080ffNOUVEAUW HÉROS|r\nTuralyon - L'un des premiers chevaliers de Lordaeron a être devenu paladin sous l'enseignement d'Uther. Si Turalyon crois dur comme fer que l'ordre ne peut être maintenu que par une discipline martiale extrême, il est respecté aussi bien de ses amis que de ses ennemis."
+  },
+  "RoA_A01_M01_MESS_005": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW SEMI HERO|r\nWilhelm - One of the seasoned veterans of Azeroth, who served as Captain under Anduin Lothar.",
+    "frFR": "|cff8080ffNOUVEAU SEMI-HÉROS|r\nWilhelm – Un des vétérans aguerris d’Azeroth, qui a servi comme capitaine sous les ordres d’Anduin Lothar."
+  },
+  "RoA_A01_M01_MESS_006": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nDefender of Faith - Soldiers of the Silver Hand Order armed with long spears. They can defend against enemy magic, though at the cost of reduced movement speed.",
+    "frFR": "|cff87ceebRENFORTS|r\nDéfenseurs de la Foi - Des soldats de l'ordre de la Main d'argent armés de lances, pouvant se parer des sortilèges ennemis, au prix de leur mobilité."
+  },
+  "RoA_A01_M01_MESS_007": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nLordaeron Footmen - arrayed in hardened steel armor, they courageously wield broadsword and shield in hand-to-hand combat against their vile orcish foes.",
+    "frFR": "|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r\nLes fantassins de Lordaeron, revêtus d'armures d'acier trempé, manient courageusement l'épée large et le bouclier au corps à corps contre leurs vils ennemis orcs."
+  },
+  "RoA_A01_M01_MESS_008": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nMagical Orbs can allow heroes attack flying units.",
+    "frFR": "|cff32cd32ASTUCE|r\nLes orbes magiques permettent aux héros d'attaquer les unités volantes."
+  },
+  "RoA_A01_M01_MESS_009": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nDefenders - Lordaeron citizens who answered the call of duty to protect both cities and towns, equipped with armor and longswords. They move and strike faster than regular footmen.",
+    "frFR": "|cff87ceebRENFORTS|r\nDéfenseurs – Citoyens de Lordaeron ayant répondu à l'appel du devoir pour protéger villes et villages, équipés d'armures et d'épées longues. Ils se déplacent et frappent plus vite que les fantassins ordinaires."
+  },
+  "RoA_A01_M01_MESS_010": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW HEROES|r\nKurdran, the Thane of the Wildhammer Clan, mounted on his loyal gryphon Sky'ree, is one of the most renowned allies of the human race.\nWhen Sky’ree is |cffffcc00airborne|r - they |cff32cd32can engage air units|r, but |cffff0000cannot attack ground targets|r.\nWhen Sky’ree is |cffffcc00on the ground|r - they |cff32cd32can attack ground units|r but |cffff0000cannot engage flying ones|r.\nKurdran can use his hero abilities on any units regardless of stance.",
+    "frFR": "|cff8080ffNOUVEAUX HÉROS|r\nKurdran - Le Thane du clan Wildhammer, au dos de Sky'ree, son loyal griffon. Il est l'un des alliés les plus renommé de la race humaine.\n|cffffcc00En vol|r - ils peuvent |cff32cd32attaquer les unités aériennes|r, mais ne peuvent pas |cffff0000attaquer les unités terrestres|r.\n|cffffcc00À terre|r - ils peuvent |cff32cd32attaquer les unités terrestres|r mais ne peuvent pas |cffff0000attaquer les unités aériennes|r.\nKurdran peut utiliser ses compétences héroiques sur toute les unités, peut importe la posture de Sky'ree."
+  },
+  "RoA_A01_M01_MESS_011": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nGryphon Riders - mighty war beasts of the Wildhammer Clan. The gryphon and its dwarf rider dominate the skies, crushing all enemies of the Alliance.",
+    "frFR": "|cff87ceebRENFORTS|r\nChevaucheurs de griffon - Puissantes bêtes de guerre du clan Wildhammer. Le griffon et son chevaucheur nain dominent les cieux, écrasant tout ennemi de l'Alliance."
+  },
+  "RoA_A01_M01_MESS_012": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nMuradin will follow Kurdran and engage in fights with enemies, but you cannot control him.",
+    "frFR": "|cff32cd32ASTUCE|r\nMuradin suivra Kurdran et combattra les ennemis, mais vous ne pourrez pas le contrôler."
+  },
+  "RoA_A01_M01_MESS_013": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff8080ffNEW HEROES|r\nDerek Proudmoore - commander of the Third Fleet of Kul Tiras and the eldest son of Grand Admiral Daelin Proudmoore. An agile warrior, he moves swiftly and can throw grenades at enemies.",
+    "frFR": "|cff8080ffNOUVEAUX HÉROS|r\nDerek Proudmoore - Commandant de la Troisième Flotte de Kul Tiras et fils ainé du Grand Amiral Daelin Proudmoore. Un guerrier agile, se déplaçant rapidement, capable de lancer des grenades sur ses ennemis."
+  },
+  "RoA_A01_M01_MESS_014": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff87ceebREINFORCEMENT|r\nKul'Tiran Ships - Admiral Proudmoore has dispatched his Third Fleet to break the siege of Lordaeron. Use these ships to reach Fenris Isle and destroy the remaining orcish navy.",
+    "frFR": "|cff87ceebRENFORTS|r\nNavires Kul'Tirassien - l'Amiral Proudmoore a envoyé la Troisième Flotte pour lever le siège de Lordaeron. utilisez ces navires pour atteindre l'Île de Fenris et détruire les restes de la marine des orcs."
+  },
+  "RoA_A01_M01_MESS_015": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00TECHTREE UNLOCKED|r\nLordaeron Archer - a skilled marksman of the Lordaeron army. Though not as elegant as elven archers, still lethal against Horde infantry.",
+    "frFR": "|cffffcc00TECHNOLOGIE DÉBLOQUÉE|r\nArcher de Lordaeron - Archer de l'armée régulière de Lordaeron. Peut-être pas aussi gracile qu'un archer elfe, mais tout aussi mortel pour l'infanterie de la Horde."
+  },
+  "RoA_A01_M01_MESS_016": {
+    "type": "HINTS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cff32cd32HINT|r\nKurdran cannot carry magical orbs.",
+    "frFR": "|cff32cd32ASTUCE|r\nKurdran ne peut pas transporter d'orbes magiques."
+  },
+  "RoA_A01_M01_OBJECTS_001": {
+    "type": "OTHER",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Treasury Vault",
+    "frFR": "Coffre du Trésor"
+  },
+  "RoA_A01_M01_OBJE_001": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Shield the King",
+    "frFR": "Protéger le roi"
+  },
+  "RoA_A01_M01_OBJE_002": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The orcish horde has breached the palace walls, and the throne room lies under siege. King Terenas must not fall. Rally your forces, hold the line, and drive back the invaders before they reach His Majesty.",
+    "frFR": "La Horde est parvenue à pénétrer l'enceinte du palais et la salle du trône subit un siège. Le Roi Terenas ne doit pas tomber. Ralliez vos forces, tenez la ligne et boutez les envahisseur avant qu'ils n'atteignent Sa Majesté. "
+  },
+  "RoA_A01_M01_OBJE_003": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Terenas must survive",
+    "frFR": "Terenas doit survivre"
+  },
+  "RoA_A01_M01_OBJE_004": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Terenas must survive",
+    "frFR": "Terenas doit survivre"
+  },
+  "RoA_A01_M01_OBJE_005": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Uther must survive",
+    "frFR": "Uther doit survivre"
+  },
+  "RoA_A01_M01_OBJE_006": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Uther must survive",
+    "frFR": "Uther doit survivre"
+  },
+  "RoA_A01_M01_OBJE_007": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nShield the King\n - Terenas must survive\n - Uther must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE|r\nProtéger le Roi\n - Terenas doit survivre\n - Uther doit survivre"
+  },
+  "RoA_A01_M01_OBJE_008": {
+    "type": "OBJECTIVES",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nShield the King",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r\nProtéger le Roi"
+  },
+  "RoA_A01_M01_OBJE_009": {
+    "type": "OBJECTIVES",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nShield the King\n - |cffff0000Uther must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nProtéger le Roi\n - |cffff0000Uther doit survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_010": {
+    "type": "OBJECTIVES",
+    "unit_id": "",
+    "unit_name": "",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nShield the King\n - |cffff0000Terenas must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nProtéger le Roi\n - |cffff0000Terenas doit survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_011": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The King’s Heir",
+    "frFR": "Héritier du roi"
+  },
+  "RoA_A01_M01_OBJE_012": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Orcs are inside the palace, placing Crown Prince Arthas in grave danger. Locate the Prince and lead him to safety, the royal line must be protected!",
+    "frFR": "Des orcs ont investi le palais, ainsi le prince héritier Arthas court un terrible danger. Trouvez le prince et conduisez-le en lieu sûr. La lignée royale doit être protégée !"
+  },
+  "RoA_A01_M01_OBJE_013": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Find prince Arthas",
+    "frFR": "Trouver le prince Arthas"
+  },
+  "RoA_A01_M01_OBJE_014": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nThe King's Heir\n- Find prince Arthas \n- Terenas must survive\n- Uther must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE|r\nHéritier du roi\n- Trouver le prince Arthas\n- Terenas doit survivre\n- Uther doit survivre"
+  },
+  "RoA_A01_M01_OBJE_015": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Uther must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nHéritier du roi\n - |cffff0000Uther doit survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_016": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Terenas must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nHéritier du roi\n - |cffff0000Terenas doit survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_017": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nThe King's Heir\n - |cffff0000Arthas must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nHéritier du roi\n - |cffff0000Arthas must survive (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_018": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nTheKing's Heir\n - |cff808080Find prince Arthas (Completed)|r\n - Terenas must survive\n - Uther must survive\n - Arthas must survive\n - Leave the palace",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nTheKing's Heir\n - |cff808080Trouver le prince Arthas (Terminé)|r\n - Terenas doit survivre\n - Uther doit survivre\n - Arthas doit survivre\n - Quitter le palais"
+  },
+  "RoA_A01_M01_OBJE_019": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Arthas must survive",
+    "frFR": "Arthas doit survivre"
+  },
+  "RoA_A01_M01_OBJE_020": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Leave the Palace",
+    "frFR": "Quitter le palais"
+  },
+  "RoA_A01_M01_OBJE_021": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nThe King's Heir",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r\nHéritier du roi"
+  },
+  "RoA_A01_M01_OBJE_022": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake the city",
+    "frFR": "Reprendre la ville"
+  },
+  "RoA_A01_M01_OBJE_023": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The time has come to drive these vermin out of our city. Purge the orc infestation district by district! Stand united and reclaim the capital!",
+    "frFR": "Le moment est venu de chasser cette vermine de notre ville. Purgez chaque district de la présence orque ! Faîtes front ensemble et reprenez le contrôle sur notre capitale !"
+  },
+  "RoA_A01_M01_OBJE_024": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "All Heroes must survive",
+    "frFR": "Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_025": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake Lower city",
+    "frFR": "Reprendre la ville basse"
+  },
+  "RoA_A01_M01_OBJE_026": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake Palace district",
+    "frFR": "Reprendre le quartier palatin"
+  },
+  "RoA_A01_M01_OBJE_027": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake East wing",
+    "frFR": "Reprendre l'aile est"
+  },
+  "RoA_A01_M01_OBJE_028": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Retake West wing",
+    "frFR": "Reprendre l'aile ouest"
+  },
+  "RoA_A01_M01_OBJE_029": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nRetake the city\n - Retake West wing\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE|r\nReprendre la ville\n - Reprendre l'aile Ouest\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_030": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nRetake the city\n - Retake East wing\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE|r\nReprendre la ville\n - Retake East wing\n - All Heroes must survive"
+  },
+  "RoA_A01_M01_OBJE_031": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nRetake the city",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r\nReprendre la ville"
+  },
+  "RoA_A01_M01_OBJE_032": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake West wing (Completed)|r\n - Retake East wing\n - All Heroes must survive\n",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nReprendre la ville\n - |cff808080Reprendre l'aile Ouest (Terminé)|r\n - Reprendre l'aile Est\n - Tous les héros doivent survivre\n"
+  },
+  "RoA_A01_M01_OBJE_033": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - Retake West wing \n - |cff808080Retake East wing (Completed)|r\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nReprendre la ville\n - Reprendre l'aile Ouest\n - |cff808080Reprendre l'aile Est(Terminé)|r\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_034": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nReprendre la ville\n - |cff808080Reprendre l'aile Est(Terminé)|r\n - |cff808080Reprendre l'aile Ouest(Terminé)|r\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_035": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake East wing (Completed)|r\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nReprendre la ville\n - |cff808080Reprendre l'aile Ouest(Terminé)|r\n - |cff808080Reprendre l'aile Est(Terminé)|r\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_036": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - Retake Palace district\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nReprendre la ville\n - |cff808080Reprendre l'aile Est (Terminé)|r\n - |cff808080Reprendre l'aile ouest (Terminé)|r\n - Reprendre le district palatin\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_037": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake Palace district (Completed)|r\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE A JOUR|r\nReprendre la ville\n - |cff808080Reprendre l'aile Est(Terminé)|r\n - |cff808080Reprendre l'aile ouest(Terminé)|r\n - |cff808080Reprendre le quartier palatin (Terminé)|r\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_038": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nRetake the city\n - |cff808080Retake East wing (Completed)|r\n - |cff808080Retake West wing (Completed)|r\n - |cff808080Retake Palace district (Completed)|r\n - Retake Lower City\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALEMISE A JOUR|r\nReprendre la ville\n - |cff808080Reprendre l'aile Est(Terminé)|r\n - |cff808080Reprendre l'aile ouest(Terminé)|r\n - |cff808080Reprendre le quartier palatin (Terminé)|r\n - Reprendre la ville basse\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_039": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nRetake the city\n - |cffff0000All Heroes must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nReprendre la ville\n - |cffff0000Tous les héros doivent survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_040": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Survivors",
+    "frFR": "Survivants"
+  },
+  "RoA_A01_M01_OBJE_041": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Rescue civilians from the rubble piles",
+    "frFR": "Secourir les civils ensevelis sous les décombres"
+  },
+  "RoA_A01_M01_OBJE_042": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Some civilians are buried under the rubble, help them to get out of their traps.",
+    "frFR": "Des civils sont ensevelis sous les décombres ; aidez-les à se dégager."
+  },
+  "RoA_A01_M01_OBJE_043": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nSurvivors\n- Rescue civilians from the rubble piles (0 / 12 piles)",
+    "frFR": "|cffffcc00QUÊTE OPTIONNELLE|r\nSurvivants\n- Secourir les civils ensevelis sous les décombres (0 / 12)"
+  },
+  "RoA_A01_M01_OBJE_044": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nSurvivors",
+    "frFR": "|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r\nSurvivants"
+  },
+  "RoA_A01_M01_OBJE_045": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST  FAILED|r\nSurvivors",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE OPTIONNELLE|r\nSurvivors"
+  },
+  "RoA_A01_M01_OBJE_046": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dark Wings",
+    "frFR": "Palais à l'ombre des ailes"
+  },
+  "RoA_A01_M01_OBJE_047": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Dragons are attacking the palace! threatening its defenses. Recruit archers to bring them down, and support your troops with the healing power of your paladins.",
+    "frFR": "Des dragons mettent à mal les défenses du palais. Recrutez des archers afin de les éliminer et soutenez vos troupes à l'aide des pouvoirs des paladins."
+  },
+  "RoA_A01_M01_OBJE_048": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Don’t let the dragons destroy the palace",
+    "frFR": "Les dragons ne doivent pas détruire le palais."
+  },
+  "RoA_A01_M01_OBJE_049": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST|r\nDark Wings\n - Don’t let dragons destroy the palace",
+    "frFR": "|cffffcc00QUÊTE OPTIONNELLE|r\nPalais à l'ombre des ailes\n - Les dragons ne doivent pas détruire le palais."
+  },
+  "RoA_A01_M01_OBJE_050": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST COMPLETED|r\nDark Wings",
+    "frFR": "|cffffcc00QUÊTE OPTIONNELLE TERMINÉE|r\nPalais à l'ombre des ailes"
+  },
+  "RoA_A01_M01_OBJE_051": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00OPTIONAL QUEST FAILED|r\nDark Wings\n - |cffff0000Don’t let dragons destroy the palace (failed)|r\n",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE OPTIONNELLE|r\nPalais à l'ombre des ailes\n - |cffff0000Les dragons ne doivent pas détruire le palais. (échec)|r\n"
+  },
+  "RoA_A01_M01_OBJE_052": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffff0000Don’t let the dragons destroy the palace (Failed)|r",
+    "frFR": "|cffff0000Les dragons ne doivent pas détruire le palais. (Échec)|r"
+  },
+  "RoA_A01_M01_OBJE_053": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Liberation of Fenris Isl",
+    "frFR": "Libération de l'île de Fenris"
+  },
+  "RoA_A01_M01_OBJE_054": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Fenris Isle is the last Horde stronghold on Lordamere Lake. Crush their forces there and lift the siege. Show no mercy and put them all to the sword!",
+    "frFR": "L'île de Fenris est le dernier bastion de la Horde sur le lac Lordamere. Écrasez-les ici et le siège sera brisé. Passez-les tous au fil de l'épée !"
+  },
+  "RoA_A01_M01_OBJE_055": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "All Heroes must survive",
+    "frFR": "Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_056": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Destroy Enemy Camp",
+    "frFR": "Détruire le camp ennemi"
+  },
+  "RoA_A01_M01_OBJE_057": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST|r\nLiberation of Fenris Isle\n - Destroy Enemy Camp\n - All Heroes must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE|r\nLibération de l'île de Fenris\n - Détruire le camp ennemi\n - Tous les héros doivent survivre"
+  },
+  "RoA_A01_M01_OBJE_058": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nLiberation of Fenris Isle\n - |cffff0000All Heroes must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nLibération de l'île de Fenris\n - |cffff0000Tous les héros doivent survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_059": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST COMPLETED|r\nLiberation of Fenris Isle",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE TERMINÉE|r\nLibération de l'île de Fenris"
+  },
+  "RoA_A01_M01_OBJE_060": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST FAILED|r\nLiberation of Fenris Isle\n - |cffff0000At least onbe hero must survive (failed)|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA QUÊTE PRINCIPALE|r\nLibération de l'île de Fenris\n - |cffff0000Au moins un héros doit survivre (échec)|r"
+  },
+  "RoA_A01_M01_OBJE_061": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Defeat the Horde General",
+    "frFR": "Vaincre le général de la Horde"
+  },
+  "RoA_A01_M01_OBJE_062": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MAIN QUEST UPDATED|r\nLiberation of Fenris Isle\n - |cff808080Destroy Enemy Camp (Completed)|r\n - Defeat the Horde General\n - At least one hero must survive",
+    "frFR": "|cffffcc00QUÊTE PRINCIPALE MISE À JOUR|r\nLibération de l'île de Fenris\n - |cff808080Détruire le camp ennemi (Terminé)|r\n - Vaincre le général de la Horde\n - Au moins un héros doit survivre"
+  },
+  "RoA_A01_M01_OBJE_063": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "At least one Hero must survive",
+    "frFR": "Au moins un héros doit survivre"
+  },
+  "RoA_A01_M01_OBJE_064": {
+    "type": "OBJECTIVES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "|cffffcc00MISSION FAILED|r",
+    "frFR": "|cffffcc00ÉCHEC DE LA MISSION|r"
+  },
+  "RoA_A01_M01_SCRN_001": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Choose place of first strike.",
+    "frFR": "Choisir où frapper."
+  },
+  "RoA_A01_M01_SCRN_002": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "West Wing (Uther)",
+    "frFR": "Aile Ouest (Uther)"
+  },
+  "RoA_A01_M01_SCRN_003": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "East Wing (Turalyon)",
+    "frFR": "Aile Est (Turalyon)"
+  },
+  "RoA_A01_M01_SCRN_004": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "frFR": "Ennemis restants :"
+  },
+  "RoA_A01_M01_SCRN_005": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "frFR": "Ennemis restants :"
+  },
+  "RoA_A01_M01_SCRN_006": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "frFR": "Ennemis restants :"
+  },
+  "RoA_A01_M01_SCRN_007": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining enemies:",
+    "frFR": "Ennemis restants :"
+  },
+  "RoA_A01_M01_SCRN_008": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Protect the Palace for:",
+    "frFR": "Protéger le palais :"
+  },
+  "RoA_A01_M01_SCRN_009": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Quest objectives",
+    "frFR": "Objectifs de quête"
+  },
+  "RoA_A01_M01_SCRN_010": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Quest objectives",
+    "frFR": "Objectifs de quête"
+  },
+  "RoA_A01_M01_SCRN_011": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Palace Durability %",
+    "frFR": "Durabilité du palais %"
+  },
+  "RoA_A01_M01_SCRN_013": {
+    "type": "MESSAGES",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Remaining Rubble Piles",
+    "frFR": "Amas de décombres restants"
+  },
+  "RoA_A01_M01_UNITS_006": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Nation of Lordaeron",
+    "frFR": "Nation de Lordaeron"
+  },
+  "RoA_A01_M01_UNITS_007": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "The Orcish Horde",
+    "frFR": "La Horde des Orcs"
+  },
+  "RoA_A01_M01_UNITS_008": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Ironforge Envoy",
+    "frFR": "Représentants d'Ironforge"
+  },
+  "RoA_A01_M01_UNITS_009": {
+    "type": "FRACTIONS",
+    "unit_id": "N/A",
+    "unit_name": "N/A",
+    "enUS": "Lordaeron Citizens",
+    "frFR": "Citoyens de Lordaeron"
+  },
+  "RoA_A01_M01_VO_S001_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Guards, to me!….",
+    "frFR": "Gardes ! À moi ! "
+  },
+  "RoA_A01_M01_VO_S001_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Soldiers of Lordaeron, protect the king!",
+    "frFR": "Soldats de Lordaeron, protégez le roi !"
+  },
+  "RoA_A01_M01_VO_S001_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Guards, I’m under attack!",
+    "frFR": "À mes côtés gardes ! Je suis assailli !"
+  },
+  "RoA_A01_M01_VO_S001_004": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Men of Lordaeron, aid me!",
+    "frFR": "Soldats de Lordaeron, à moi !"
+  },
+  "RoA_A01_M01_VO_S002_001": {
+    "type": "VO",
+    "unit_id": "SYS",
+    "unit_name": "SYSTEM",
+    "enUS": "A few moments later...",
+    "frFR": "Quelques instants plus tard..."
+  },
+  "RoA_A01_M01_VO_S002_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Your Majesty, we must abandon the palace and retreat to the courtyard. There, we can make our final stand and fortify our defenses.",
+    "frFR": "Votre Grâce, nous devons abandonner le palais et nous replier dans la cour. Nous y établirons et solidifierons nos défenses pour notre dernière bataille."
+  },
+  "RoA_A01_M01_VO_S002_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Agreed. But first, we must get my son from his chambers!",
+    "frFR": "Très bien, mais avant toute chose, il nous faut aller chercher mon fils dans ses quartiers."
+  },
+  "RoA_A01_M01_VO_S003_001": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "The door is locked! We'll need to find a way to open it!",
+    "frFR": "La porte est verrouillée... Nous devons trouver la clé ou actionner le bon levier..."
+  },
+  "RoA_A01_M01_VO_S004_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "I cannot leave without my son...",
+    "frFR": "Je ne peux quitter le château sans mon fils..."
+  },
+  "RoA_A01_M01_VO_S004_002": {
+    "type": "VO",
+    "unit_id": "ART",
+    "unit_name": "Arthas",
+    "enUS": "Father!",
+    "frFR": "Père !"
+  },
+  "RoA_A01_M01_VO_S004_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Arthas, my son, thank the Light you are safe. We're leaving the palace.",
+    "frFR": "Arthas, mon fils, la Lumière soit louée vous êtes sauf. Nous quittons le palais."
+  },
+  "RoA_A01_M01_VO_S004_004": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Ah, my treasury. It used to be full of gold…",
+    "frFR": "Ma trésorerie... L'or y abondait naguère."
+  },
+  "RoA_A01_M01_VO_S005_001": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "The might of the mountains shall destroy ye! ",
+    "frFR": "La puissance des montagnes va vous détruire !"
+  },
+  "RoA_A01_M01_VO_S005_002": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "I’ll crack yer skulls! Savage beasts!",
+    "frFR": "J'vais vous briser l'crâne, maudites bêtes !"
+  },
+  "RoA_A01_M01_VO_S005_003": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Lads! Do not let them advance further!",
+    "frFR": "Les gars ! Les laissez pas avancer plus loin !"
+  },
+  "RoA_A01_M01_VO_S006_001": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "My King, you'll be safe here. I'll reinforce the city's defenses.",
+    "frFR": "Mon Roi, vous serez en sécurité ici. Je vais renforcer les défenses de la cité."
+  },
+  "RoA_A01_M01_VO_S006_002": {
+    "type": "VO",
+    "unit_id": "ART",
+    "unit_name": "Arthas",
+    "enUS": "Father, are those creatures going to kill us?",
+    "frFR": "Père, les orcs vont-ils nous tuer ?"
+  },
+  "RoA_A01_M01_VO_S006_003": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Fear not, Arthas. We are safe, for now. But if we are overrun, seek out the catacombs and join Prince Varian in the hideout.",
+    "frFR": "Soyez sans craintes, Arthas. Nous sommes en sécurité pour l'heure. Mais si nous venions à être submergé, rejoignez les catacombes et cachez-vous-y avec le prince Varian."
+  },
+  "RoA_A01_M01_VO_S006_004": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "I'll take care of them, lad. You do your duty.",
+    "frFR": "J'me charge de lui, chacun son boulot."
+  },
+  "RoA_A01_M01_VO_S007_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Your Majesty, Lord Lothar dispatched us the moment we heard the city had been besieged, Thank the Light you and your family are safe.",
+    "frFR": "Votre Majesté, le commandant Lothar nous a dépêché dès l'instant où il a eu vent du siège de la ville. Louée soit la Lumière, vous et les vôtres êtes sains et saufs."
+  },
+  "RoA_A01_M01_VO_S007_002": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "If you hadn’t reached us in time, I’m afraid all would’ve been lost, young Paladin. Your aid is sorely needed.",
+    "frFR": "Si vous n'êtiez pas arrivé à temps, je crains que tout eut été perdu. Nous avions désespérément besoin de votre aide."
+  },
+  "RoA_A01_M01_VO_S007_003": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Just in time, brother. We have much to do.",
+    "frFR": "Vous arrivez à point nommé, frère. Nous avons du pain sur la planche."
+  },
+  "RoA_A01_M01_VO_S007_004": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Tell us what to do, Lord Uther.",
+    "frFR": "Dîtes-nous que faire, seigneur Uther."
+  },
+  "RoA_A01_M01_VO_S007_005": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "We must reclaim the city's districts and drive out the orcs. I'll handle the western district, and you handle the eastern one.",
+    "frFR": "Nous devons reprendre les districts de la ville, et en bouter les orcs. Je me charge du quartier ouest, et vous du quartier est."
+  },
+  "RoA_A01_M01_VO_S008_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Use barracks to replenish your troops!",
+    "frFR": "Utilisez les casernes pour reconstituer nos troupes."
+  },
+  "RoA_A01_M01_VO_S008_002": {
+    "type": "VO",
+    "unit_id": "WIL",
+    "unit_name": "Wilhelm",
+    "enUS": "We must dig out the rubble of the residential buildings, some citizens could have survived.",
+    "frFR": "Il faut fouiller les décombres des immeubles résidentiels, certains citoyens pourraient avoir survécu."
+  },
+  "RoA_A01_M01_VO_S009_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "We've done it! The orcs are falling back!",
+    "frFR": "Nous avons réussi ! Les orcs sont en déroute !"
+  },
+  "RoA_A01_M01_VO_S009_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Don't celebrate just yet... Look, the dragons are attacking the palace!",
+    "frFR": "Il est trop tôt pour crier victoire... Regardez, des dragons attaquent le palais !"
+  },
+  "RoA_A01_M01_VO_S010_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Archers! Ready your bows!",
+    "frFR": "Archers ! À vos arcs !"
+  },
+  "RoA_A01_M01_VO_S010_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "We must support our archers and bring down those dragons!",
+    "frFR": "Il nous faut appuyer nos archer à l'aide de la sainte lumière afin d'anéantir ces dragons !"
+  },
+  "RoA_A01_M01_VO_S011_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "Those winged beasts are too formidable... we can't vanquish them all...",
+    "frFR": "Ces créatures sont redoutables... Nous n'en viendrons pas à bout..."
+  },
+  "RoA_A01_M01_VO_S011_002": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Maybe if those blasted Wildhammers were here to get off their asses!",
+    "frFR": "P't'êt' si ces satanés Wildhammer servaient à quelqu' chose !"
+  },
+  "RoA_A01_M01_VO_S011_003": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Huh?",
+    "frFR": "Hein ?"
+  },
+  "RoA_A01_M01_VO_S011_004": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Hah, what was that Bronzebeard? Hear that lads, let's hunt us some flying lizards, shall we?! Ha-ha-ha-ha-ha!",
+    "frFR": "Ha ! Qu'est-ce qu'il dit l'Bronzebeard ? Z'entendez les gars ? Allons chasser ces lézards volants ! "
+  },
+  "RoA_A01_M01_VO_S012_001": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "You arrived just in time, my dwarven friend. The city would have been reduced to ashes if not for your aid.",
+    "frFR": "Votre arrivée est opportune, ami nain. Sans votre intervention, il ne resterait rien de cette cité."
+  },
+  "RoA_A01_M01_VO_S012_002": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Anduin Lothar helped us defend our homeland against the orcish scum. Now we’ll return the favor by ridding the city of greenskin mongrels.",
+    "frFR": "Anduin Lothar nous a aidé à défendre notre foyer contre ces raclures d'orcs. On va vous rendre la pareille en débarassant la ville de ces infectes peaux vertes."
+  },
+  "RoA_A01_M01_VO_S012_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "How far is Lord Lothar from the city?",
+    "frFR": "A quelle distance se trouve Lothar ?"
+  },
+  "RoA_A01_M01_VO_S012_004": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "He's not heading here. His army is marching through Hillsbrad to relieve Dalaran and attack the orcs from the rear. If all goes as planned, the Horde will be caught between our forces here and his forces down south.",
+    "frFR": "Il ne vient pas par ici. Son armée traverse Hillsbrad, pour lever le siège de Dalaran et attaquer les orcs par derrière. Si tout s'passe comme prévu, la Horde sera prise en étau entre nos forces ici, et les siennes, au sud."
+  },
+  "RoA_A01_M01_VO_S012_005": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "A solid plan. Now we must ensure we hold our defense here.",
+    "frFR": "C'est un bon plan. A présent nous devons nous assurer que nos défenses tiendront ici."
+  },
+  "RoA_A01_M01_VO_S012_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "First, we need to cleanse the last two city districts of those unholy creatures. March on!",
+    "frFR": "Avant tout, il nous faut purger les deux derniers districts de ces créatures impies. En marche !"
+  },
+  "RoA_A01_M01_VO_S013_001": {
+    "type": "VO",
+    "unit_id": "OPI",
+    "unit_name": "Orc Pirate",
+    "enUS": "Chicken soup is back on the menu, boys!",
+    "frFR": "Y a du bouillon de poulet au menu, les gars !"
+  },
+  "RoA_A01_M01_VO_S013_002": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Blast it, their armada is too formidable for my gryphon pack. I can't take them all head on; there are too many ships!",
+    "frFR": "Bougre d'âne ! Leur armada est une trop grande menace pour ma fierté de gryphons. Il sont trop nombreux, je ne peux pas tous les affronter."
+  },
+  "RoA_A01_M01_VO_S013_003": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "In that case, we should concentrate our efforts on the lower city.",
+    "frFR": "Dans ce cas, nous devons concentrer nos efforts sur la ville basse."
+  },
+  "RoA_A01_M01_VO_S013_004": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "I've had enough rest. It's time to crush some orcish skulls.",
+    "frFR": "Assez de repos. C'est l'heure de briser quelques crânes."
+  },
+  "RoA_A01_M01_VO_S013_005": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "You can follow if you can keep up.",
+    "frFR": "Libre à vous de venir, si vous pouvez tenir la cadence."
+  },
+  "RoA_A01_M01_VO_S013_006": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "Ha-ha, that can be done!",
+    "frFR": "Ça se pourrait bien !"
+  },
+  "RoA_A01_M01_VO_S014_001": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "We're in luck boys, the fog concealed our presence, lets break this armada.",
+    "frFR": "Nous sommes en veine, le brouillard a couvert notre présence. Anéantissons cette armada"
+  },
+  "RoA_A01_M01_VO_S014_002": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "C'mon sailors, our allies in the city need help, dealing with those orcish ships was easy task, but now we need to work with some sweat and blood.",
+    "frFR": "Marins, nos alliés en ville ont besoin de nous. Éliminer ces navires orcs était un jeu d'enfant, à présent il nous faut donner de notre sueur et de notre sang !"
+  },
+  "RoA_A01_M01_VO_S015_001": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "The Lord Admiral sent me with the northern armada as soon as he received reports of the siege. Blessed be the sea; we have arrived in time.",
+    "frFR": "Le Grand Amiral m'a envoyé avec l'Armada du nord dès qu'il a reçu les rapports sur le siège. Louée soit la Marée, nous sommes arrivés à temps"
+  },
+  "RoA_A01_M01_VO_S015_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Your help is much appreciated. Without the might of Kul Tiras, this naval blockade could have held on for who knows how long.",
+    "frFR": "Votre aide est grandement appréciée. Sans la puissance de Kul'Tiras, qui sait pour combien de temps nous aurions subi ce blocus."
+  },
+  "RoA_A01_M01_VO_S015_003": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "To achieve final victory over their remaining forces, we must cross the lake, assault Fenris Isle, and capture their generals.",
+    "frFR": "Afin de remporter une victoire décisive sur les forces restantes, nous devons traverser le lac, reprendre l'île de Fenris, et capturer leurs généraux."
+  },
+  "RoA_A01_M01_VO_S015_004": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Ah, with all due respect to Master Proudmoore and his sea warriors, dwarves can never feel comfortable on any kind of boat. But then again, it's better than to ride a gryphon.",
+    "frFR": "Ah, avec tout le respect que je dois à Maître Proudmoore et ses matelots, les Nains n'ont pas le pied marin. Puis-je demander un griffon à Kurdran ?"
+  },
+  "RoA_A01_M01_VO_S015_005": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Your wounds need more time to heal, my friend. You've already done a lot to ensure our victory here.",
+    "frFR": "Vos blessures ont encore besoin de temps pour se refermer, mon ami. Vous avez déjà grandement contribué à notre victoire."
+  },
+  "RoA_A01_M01_VO_S015_006": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "But… ah, I'll miss all the fun…",
+    "frFR": "Mais... ah... je veux pas rater la bagarre..."
+  },
+  "RoA_A01_M01_VO_S015_007": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "The lad's right, Master Bronzebeard. You already put up good fight, I have to admit. But now, ya need to rest.",
+    "frFR": "L'garçon à raison mait' Bronzebeard. Vous z'êtes déjà bien battu, faut l'dire. Y faut vous r'poser maint'nant."
+  },
+  "RoA_A01_M01_VO_S015_008": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "My ships are at your disposal...",
+    "frFR": "Mes navires sont à votre disposition."
+  },
+  "RoA_A01_M01_VO_S016_001": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Warchief, the humans have retaken the city! What do we do?",
+    "frFR": "Chef de guerre, les humains ont repris la ville ! Que devons-nous faire ?"
+  },
+  "RoA_A01_M01_VO_S016_002": {
+    "type": "VO",
+    "unit_id": "THA",
+    "unit_name": "Tharbek",
+    "enUS": "We must press the attack! Those dogs deserve no reprieve!",
+    "frFR": "Il faut poursuivre l'assaut ! Ces chiens ne méritent pas de répis !"
+  },
+  "RoA_A01_M01_VO_S016_003": {
+    "type": "VO",
+    "unit_id": "ODO",
+    "unit_name": "Orgrim Doomhammer",
+    "enUS": "No. Between Dalaran and Alterac, our forces are stretched too thin. And the Alliance has further reinforcements on the way. We need to sound a tactical retreat, fall back, and regroup.",
+    "frFR": "Non. Nos forces sont trop dispersées entre Dalaran et Alterac. Et l'Alliance a d'autres renforts en approche. Nous devons sonner la retraite tactique, nous replier et nous regrouper."
+  },
+  "RoA_A01_M01_VO_S016_004": {
+    "type": "VO",
+    "unit_id": "THA",
+    "unit_name": "Tharbek",
+    "enUS": "But Warchief…",
+    "frFR": "Mais, Chef de guerre..."
+  },
+  "RoA_A01_M01_VO_S016_005": {
+    "type": "VO",
+    "unit_id": "ODO",
+    "unit_name": "Orgrim Doomhammer",
+    "enUS": "Enough! That’s a command! Tharbek, you will oversee that our retreat is orderly. Utok, you will travel to our base at Zul’Dare and make sure our western supply lines remain intact. Is that clear?",
+    "frFR": "Assez ! C'est un ordre ! Tharbek, vous veillerez à notre retraite. Utok, partez pour Zul'Dare et assurez vous que les lignes d'approvisionnement occidentales restent intact. Est-ce clair ?"
+  },
+  "RoA_A01_M01_VO_S016_006": {
+    "type": "VO",
+    "unit_id": "USC",
+    "unit_name": "Utok Scratcher",
+    "enUS": "Yes, Warchief.",
+    "frFR": "Oui, Chef de guerre."
+  },
+  "RoA_A01_M01_VO_S016_007": {
+    "type": "VO",
+    "unit_id": "THA",
+    "unit_name": "Tharbek",
+    "enUS": "Yes, Warchief. But what of our base here?",
+    "frFR": "Oui, Chef de guerre. Devons nous abandonner la base ?"
+  },
+  "RoA_A01_M01_VO_S016_008": {
+    "type": "VO",
+    "unit_id": "ODO",
+    "unit_name": "Orgrim Doomhammer",
+    "enUS": "We can’t hope to hold it. Not without committing troops we can’t spare right now. But we can leave the humans a surprise…",
+    "frFR": "Aucune chance qu'elle tienne. Pas sans engager le reste des troupes, dont nous ne disposons pas pour l'instant. Mais nous pouvons laisser une surprise aux humains..."
+  },
+  "RoA_A01_M01_VO_S017_001": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "It’s an ambush, take cover!",
+    "frFR": "Embuscade ! À couvert !"
+  },
+  "RoA_A01_M01_VO_S017_002": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "Puny humans, too stupid. Warchief said you die, so you die.",
+    "frFR": "Humains chétifs, trop bêtes. Le Chef de guerre a dit que tu meurs, alors tu meurs."
+  },
+  "RoA_A01_M01_VO_S018_001": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "You run now? Not with no feet!",
+    "frFR": "Déjà partir ? Sans jambes, fuir pas possible !"
+  },
+  "RoA_A01_M01_VO_S018_002": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "Hard to breathe, eh? Soon you will stop breathing!",
+    "frFR": "Peux pas respirer ? Bientôt pour toujours !"
+  },
+  "RoA_A01_M01_VO_S018_003": {
+    "type": "VO",
+    "unit_id": "KOG",
+    "unit_name": "Korkron Orge Guard",
+    "enUS": "Ha-ha! Today I ate a gnome for a breakfast.",
+    "frFR": "Ah ah ! J'ai mangé un gnome au p'tit dej."
+  },
+  "RoA_A01_M01_VO_S018_004": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "The island is ours once again.",
+    "frFR": "L'île est à nouveau nôtre."
+  },
+  "RoA_A01_M01_VO_S019_001": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Today's victory came at a heavy price… Many brave souls have died so that we might live. We should take care of their bodies and their families… Yet Doomhammer has escaped, so we can't delay.",
+    "frFR": "Notre victoire en ce jour nous à coûté... Nombre de braves ont donné leurs vies, pour préserver les nôtres. La tâche incombe aux survivants de traiter leurs corps avec dignité et de prendre soin de leurs familles."
+  },
+  "RoA_A01_M01_VO_S019_002": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "Yes, my liege. Grief fills my heart as well, but we must act and follow him south immediately.",
+    "frFR": "Le deuil empli mon coeur également, votre Majesté, mais il nous faut d'abord agir. Le Chef de guerre s'est échappé de l'île de Fenris et a fui vers le sud."
+  },
+  "RoA_A01_M01_VO_S019_003": {
+    "type": "VO",
+    "unit_id": "DPR",
+    "unit_name": "Derek Proudmoore",
+    "enUS": "My remaining ships are at your disposal, Your Majesty.",
+    "frFR": "Les navires de l'armada restants sont à votre disposition, votre Grâce. "
+  },
+  "RoA_A01_M01_VO_S019_004": {
+    "type": "VO",
+    "unit_id": "KWI",
+    "unit_name": "Kurdran Wildhammer",
+    "enUS": "My gryphons need a few hours to rest, but afterward, we can support your offensive from the sky.",
+    "frFR": "Mes griffons ont besoin de quelques heures de repos, mais ensuite, nous pourrons soutenir votre offensive depuis les cieux."
+  },
+  "RoA_A01_M01_VO_S019_005": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Turalyon, gather all Knights of the Silver Hand and all soldiers able to fight. They will have time to rest on the ships while crossing the lake.",
+    "frFR": "Turalyon, rassemblez les chevaliers de la Main d'Argent et tous les hommes à même de combattre. Ils auront le temps de se reposer sur les navires lors de la traversée du lac."
+  },
+  "RoA_A01_M01_VO_S019_006": {
+    "type": "VO",
+    "unit_id": "TUR",
+    "unit_name": "Turalyon",
+    "enUS": "As you command, Your Majesty.",
+    "frFR": "Selons vos ordres, Majesté."
+  },
+  "RoA_A01_M01_VO_S019_007": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Uther, I want you to stay here and take care of the wounded. Your skills and compassion can save more lives here than on the front line.",
+    "frFR": "Uther, j'ai besoin que vous restiez pour vous occuper des blessés. Vos compétences et votre compassion peuvent sauver davantages de vies ici qu'en première ligne."
+  },
+  "RoA_A01_M01_VO_S019_008": {
+    "type": "VO",
+    "unit_id": "UTL",
+    "unit_name": "Uther Lightbringer",
+    "enUS": "There is wisdom in your words… I will obey, my king.",
+    "frFR": "Vos mots sont emprunts de sagesse... J'obéis, mon roi."
+  },
+  "RoA_A01_M01_VO_S019_009": {
+    "type": "VO",
+    "unit_id": "TME",
+    "unit_name": "Terenas Menethil II",
+    "enUS": "Muradin, I want you to stay with me. You've shed enough blood for Lordaeron already, and I don't want to face the wrath of your brother-king if something were to happen to you.",
+    "frFR": "Muradin, je veux que vous restiez à mes côtés. Vous avez déjà versé suffisamment de sang pour Lordaeron, et je ne souhaite pas affronter la colère de votre frère le roi, si un malheur devait vous arriver."
+  },
+  "RoA_A01_M01_VO_S019_010": {
+    "type": "VO",
+    "unit_id": "MBR",
+    "unit_name": "Muradin Bronzebeard",
+    "enUS": "Your words warm my heart, King Terenas.",
+    "frFR": "Vos paroles me réchauffent le coeur, Roi Terenas."
+  }
+}
