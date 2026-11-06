@@ -6,5 +6,5 @@ from roa_build_1_03 import build_wts_json  # noqa: E402
 REPO = __file__.rsplit("scripts", 1)[0]
 
 build_wts_json('frFR', REPO, csv_column=None,
-               title='Rise of the Alliance 1.03 FR 1.0',
-               description_suffix='Traduction française : Whirlwind (Discord : whirlwind0174)')
+               title='Rise of the Alliance 1.03 FR 1.01',
+               description_suffix='Traduction française : Thomas FARINA “Whirlwind” (Discord : whirlwind0174)')

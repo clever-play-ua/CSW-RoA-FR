@@ -5,7 +5,7 @@ from roa_build_1_03 import build_campaign  # noqa: E402
 
 REPO = __file__.rsplit("scripts", 1)[0]
 
-build_campaign('frFR', REPO, 'CSW_Rise_of_the_Alliance_1_03_FR_1_0.w3n', loading_screens={
+build_campaign('frFR', REPO, 'CSW_Rise_of_the_Alliance_1_03_FR_1_01.w3n', loading_screens={
     'ACT1': REPO + 'LOADING_SCREENS_DDS/RoA_A01_INTRO_FR.dds',
     '01': REPO + 'LOADING_SCREENS_DDS/RoA_A01_M01_FR.dds',
     '02': REPO + 'LOADING_SCREENS_DDS/RoA_A01_M02_FR.dds',
