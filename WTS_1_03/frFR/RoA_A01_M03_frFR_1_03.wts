@@ -2848,7 +2848,7 @@ WC2Human03Khadgar_BarrelsSetUpAlt
 STRING 756
 // Items: IL06 (WC2Human03Antonidas_Intro2), Description (Description)
 {
-Du calme, chers confrères. Nous avons été informé que Doomhammer a été vaincu à Lordaeron, et que l'armée de l'Alliance viendra nous prêter main forte sous peu. Le jeune Khadgar m'a fait ce rapport lui-même. Il ne nous faut que gagner du temps. 
+Du calme, chers confrères. Nous avons été informé que Doomhammer a été vaincu à Lordaeron, et que l'armée de l'Alliance viendra nous prêter main forte sous peu. Le jeune Khadgar m'a fait ce rapport lui-même. Il ne nous faut que gagner du temps.
 }
 
 STRING 757
@@ -2968,7 +2968,7 @@ Je ne dois surtout pas engager le combat, ou ils découvriront la supercherie, e
 STRING 779
 // Items: Il13 (WC2Human03Antonidas_Crystal01), Description (Description)
 {
-Regardez ! Ce sont les cristaux de l'Île de la Croix. Trouvez-en deux de plus, et vous serez peut-être en mesure de restaurer les Gardiens arcaniques. 
+Regardez ! Ce sont les cristaux de l'Île de la Croix. Trouvez-en deux de plus, et vous serez peut-être en mesure de restaurer les Gardiens arcaniques.
 }
 
 STRING 780
@@ -2985,7 +2985,7 @@ Modera
 STRING 784
 // Items: IL42 (WC2Human03Modera_Disguise0), Description (Description)
 {
-Oh, vous m'avez fait peur. 
+Oh, vous m'avez fait peur.
 }
 
 STRING 787
@@ -3410,7 +3410,7 @@ CinematicKhadgar
 STRING 874
 // Items: IL51 (WC2Human03Krasus_DragonsHunt3), Description (Description)
 {
-Le compte est bon. Regardez ! Le reste de leurs forces aériennes bat en retraite ! 
+Le compte est bon. Regardez ! Le reste de leurs forces aériennes bat en retraite !
 }
 
 STRING 876

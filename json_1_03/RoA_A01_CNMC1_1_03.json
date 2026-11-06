@@ -242,7 +242,7 @@
     "unit_id": "KHA",
     "unit_name": "Khadgar",
     "enUS": "No trolls, Your Grace. They are an alien race, who have invaded our lands through a magical rift hidden somewhere within the southern fringes of the Black Morass.",
-    "frFR": "Pas des trolls, Votre Grace. Cette race n'est pas native de notre monde, et a envahi nos terres en traversant une faille magique cachée quelques parts dans le sud des Morasses Noires. "
+    "frFR": "Pas des trolls, Votre Grace. Cette race n'est pas native de notre monde, et a envahi nos terres en traversant une faille magique cachée quelques parts dans le sud des Morasses Noires."
   },
   "RoA_A01_CNMC1_VO_S003_009": {
     "type": "VO",
@@ -312,7 +312,7 @@
     "unit_id": "TME",
     "unit_name": "Terenas Menethil II",
     "enUS": "While the kingdoms are assembling their armies, I will send a small scouting force to the island of Zul’Dare, to evaluate if the Horde has made any attempts to cross the Great Sea yet.",
-    "frFR": "Pendant que les royaumes assemblent leurs armées, j'enverrai une force de reconnaissance sur l'île de Zul'dare. De là, nous pourrons déterminer si la Horde a déjà tenté de traverser la Grande Mer. "
+    "frFR": "Pendant que les royaumes assemblent leurs armées, j'enverrai une force de reconnaissance sur l'île de Zul'dare. De là, nous pourrons déterminer si la Horde a déjà tenté de traverser la Grande Mer."
   },
   "RoA_A01_CNMC1_VO_S004_003": {
     "type": "VO",
@@ -361,7 +361,7 @@
     "unit_id": "GGR",
     "unit_name": "Genn Graymane",
     "enUS": "So, you have come to claim sovereignty over us?",
-    "frFR": "C'est donc pour revendiquer souveraineté sur nous tous que vous nous avez mandé ? "
+    "frFR": "C'est donc pour revendiquer souveraineté sur nous tous que vous nous avez mandé ?"
   },
   "RoA_A01_CNMC1_VO_S004_010": {
     "type": "VO",
@@ -389,7 +389,7 @@
     "unit_id": "AFA",
     "unit_name": "Alonsus Faol",
     "enUS": "I see where you are going…If I may, great leaders. When Northshire was decimated by the foul magic of orcish warlocks, we despaired. And when King Llane fell and Stormwind burned, we lost all hope.",
-    "frFR": "Si je puis me permettre, mes seigneurs. Quand Northshire fut ravagée par la magie impie des démonistes orcs, notre courage a vascillé. Et quand le roi Llane est tombé et que Stormwind a été réduite en cendres, nous avons perdu tout espoir. "
+    "frFR": "Si je puis me permettre, mes seigneurs. Quand Northshire fut ravagée par la magie impie des démonistes orcs, notre courage a vascillé. Et quand le roi Llane est tombé et que Stormwind a été réduite en cendres, nous avons perdu tout espoir."
   },
   "RoA_A01_CNMC1_VO_S004_014": {
     "type": "VO",
@@ -403,7 +403,7 @@
     "unit_id": "TME",
     "unit_name": "Terenas Menethil II",
     "enUS": "Indeed… I agree. As the champion of Azeroth, Lord Lothar spent years battling the orcish hordes. His experience alone is invaluable.",
-    "frFR": "En effet... Je suis d'accord. En tant que champion d'Azeroth,le seigneur Lothar a passé des années à combattre la Horde orc. Son expérience est inestimable."
+    "frFR": "En effet... Je suis d'accord. En tant que champion d'Azeroth, le seigneur Lothar a passé des années à combattre la Horde orc. Son expérience est inestimable."
   },
   "RoA_A01_CNMC1_VO_S004_016": {
     "type": "VO",
@@ -445,7 +445,7 @@
     "unit_id": "TME",
     "unit_name": "Terenas Menethil II",
     "enUS": "Now then, we have all agreed that time is of the essence if we are to marshal our united forces and meet the Horde when it arrives.",
-    "frFR": "Dans ce cas, nous sommes tous d'accord sur la nécessité de mobiliser rapidement nos forces pour affronter la Horde dès son arrivée. "
+    "frFR": "Dans ce cas, nous sommes tous d'accord sur la nécessité de mobiliser rapidement nos forces pour affronter la Horde dès son arrivée."
   },
   "RoA_A01_CNMC1_VO_S004_022": {
     "type": "VO",
@@ -459,7 +459,7 @@
     "unit_id": "TME",
     "unit_name": "Terenas Menethil II",
     "enUS": "Then I hereby declare the founding of the Grand Alliance of Lordaeron!",
-    "frFR": "Alors, je déclare officiellement la fondation de la Grande Alliance de Lordaeron ! "
+    "frFR": "Alors, je déclare officiellement la fondation de la Grande Alliance de Lordaeron !"
   },
   "RoA_A01_CNMC1_VO_S004_024": {
     "type": "VO",
@@ -515,7 +515,7 @@
     "unit_id": "ALO",
     "unit_name": "Anduin Lothar",
     "enUS": "I just received a message that the Cross Island has fallen. It means that the Horde has reached Lordamere Lake. Seems like Alterac forces cannot defend their borders anymore… Since the beginning of this war, fortune has been against us.",
-    "frFR": "J'ai reçu une missive à l'instant... l'île de la croix est tombée. Cela signifie que la Horde a atteint le lac Lordamere. Un exploit possible uniquement si Alterac est tombée... Depuis le début de cette guerre, la fortune nous abandonne. "
+    "frFR": "J'ai reçu une missive à l'instant... l'île de la croix est tombée. Cela signifie que la Horde a atteint le lac Lordamere. Un exploit possible uniquement si Alterac est tombée... Depuis le début de cette guerre, la fortune nous abandonne."
   },
   "RoA_A01_CNMC1_VO_S005_006": {
     "type": "VO",

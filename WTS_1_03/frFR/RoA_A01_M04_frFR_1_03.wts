@@ -1003,7 +1003,7 @@ Utok Scratcher
 STRING 2557
 // Items: IL38 (WC2Human04Utok_Bossfight02), Description (Description)
 {
-Pour Doomhammer ! Pour le clan Bloodscribe ! 
+Pour Doomhammer ! Pour le clan Bloodscribe !
 }
 
 STRING 2558
@@ -1921,7 +1921,7 @@ Anduin Lothar
 STRING 2865
 // Items: IL59 (WC2Human04Lothar_Bossfight03), Description (Description)
 {
-Je suis gravement blessé... Vous devrez l'achever sans moi... 
+Je suis gravement blessé... Vous devrez l'achever sans moi...
 }
 
 STRING 2866
@@ -1994,7 +1994,7 @@ Pour Azeroth !
 STRING 2885
 // Items: IL36 (WC2Human04Lothar_Zuldare03), Description (Description)
 {
-Les portes sont closes ! Wilhelm, Danath, chargez ! 
+Les portes sont closes ! Wilhelm, Danath, chargez !
 }
 
 STRING 2886
@@ -2066,7 +2066,7 @@ Danath Trollbane
 STRING 2913
 // Items: IL61 (WC2Human04Lothar_Outro01A), Description (Description)
 {
-Wilhlem ! Maudites bêtes ! 
+Wilhlem ! Maudites bêtes !
 }
 
 STRING 2914
@@ -2257,7 +2257,7 @@ Quelques temps plus tard, les navires de l'Alliance pénètrent les eaux des îl
 STRING 2988
 // Items: IL66 (WC2Human04Danath_Prepare02), Description (Description)
 {
-C'est un destroyer troll. On dirait qu'un combat naval nous attend.
+C'est un destroyer troll, capitaine. On dirait qu'un combat naval nous attend.
 }
 
 STRING 2990
@@ -2425,7 +2425,7 @@ Prisonnier
 STRING 3046
 // Items: IL76 (WC2Human02Prisoner02), Description (Description)
 {
-Ces misérables orcs nous obligent à travailler jour et nuit ! 
+Ces misérables orcs nous obligent à travailler jour et nuit !
 }
 
 STRING 3047
@@ -2461,7 +2461,7 @@ Prisonnier
 STRING 3052
 // Items: IL78 (WC2Human02Prisoner03), Description (Description)
 {
-Merci, messire ! 
+Merci, messire !
 }
 
 STRING 3053

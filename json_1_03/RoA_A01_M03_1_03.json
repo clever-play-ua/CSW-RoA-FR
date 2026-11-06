@@ -935,7 +935,7 @@
     "unit_id": "ANT",
     "unit_name": "Antonidas",
     "enUS": "Calm down, masters. We’ve received a word that Doomhammer has been defeated at Lordaeron, and we’ll be soon reinforced by Alliance armies. The young Khadgar has delivered the report himself. We only need to hold our ground.",
-    "frFR": "Du calme, chers confrères. Nous avons été informé que Doomhammer a été vaincu à Lordaeron, et que l'armée de l'Alliance viendra nous prêter main forte sous peu. Le jeune Khadgar m'a fait ce rapport lui-même. Il ne nous faut que gagner du temps. "
+    "frFR": "Du calme, chers confrères. Nous avons été informé que Doomhammer a été vaincu à Lordaeron, et que l'armée de l'Alliance viendra nous prêter main forte sous peu. Le jeune Khadgar m'a fait ce rapport lui-même. Il ne nous faut que gagner du temps."
   },
   "RoA_A01_M03_VO_S001_007": {
     "type": "VO",
@@ -1068,7 +1068,7 @@
     "unit_id": "MOD",
     "unit_name": "Modera",
     "enUS": "You almost startled me!",
-    "frFR": "Oh, vous m'avez fait peur. "
+    "frFR": "Oh, vous m'avez fait peur."
   },
   "RoA_A01_M03_VO_S006_004": {
     "type": "VO",
@@ -1243,7 +1243,7 @@
     "unit_id": "ANT",
     "unit_name": "Antonidas",
     "enUS": "Look! This is a crystal from one of the Cross Island citadels. Find two more and maybe we will be able to restore our arcane guardians.",
-    "frFR": "Regardez ! Ce sont les cristaux de l'Île de la Croix. Trouvez-en deux de plus, et vous serez peut-être en mesure de restaurer les Gardiens arcaniques. "
+    "frFR": "Regardez ! Ce sont les cristaux de l'Île de la Croix. Trouvez-en deux de plus, et vous serez peut-être en mesure de restaurer les Gardiens arcaniques."
   },
   "RoA_A01_M03_VO_S012_004": {
     "type": "VO",
@@ -1467,7 +1467,7 @@
     "unit_id": "KRA",
     "unit_name": "Krasus",
     "enUS": "We have all we need. The rest of their air forces are retreating!",
-    "frFR": "Le compte est bon. Regardez ! Le reste de leurs forces aériennes bat en retraite ! "
+    "frFR": "Le compte est bon. Regardez ! Le reste de leurs forces aériennes bat en retraite !"
   },
   "RoA_A01_M03_VO_S018_002": {
     "type": "VO",

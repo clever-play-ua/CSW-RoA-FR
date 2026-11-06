@@ -998,7 +998,7 @@
     "unit_id": "DTR",
     "unit_name": "Danath Trollbane",
     "enUS": "A troll destroyer ship. Seems like we’re going to have a naval fight.",
-    "frFR": "C'est un destroyer troll. On dirait qu'un combat naval nous attend."
+    "frFR": "C'est un destroyer troll, capitaine. On dirait qu'un combat naval nous attend."
   },
   "RoA_A01_M04_VO_S009_005": {
     "type": "VO",
@@ -1019,7 +1019,7 @@
     "unit_id": "PRI",
     "unit_name": "Prisoner",
     "enUS": "These wretched orcs are forcing us to work day and night!",
-    "frFR": "Ces misérables orcs nous obligent à travailler jour et nuit ! "
+    "frFR": "Ces misérables orcs nous obligent à travailler jour et nuit !"
   },
   "RoA_A01_M04_VO_S010_003": {
     "type": "VO",
@@ -1033,7 +1033,7 @@
     "unit_id": "PRI",
     "unit_name": "Prisoner",
     "enUS": "Thank you, sire!",
-    "frFR": "Merci, messire ! "
+    "frFR": "Merci, messire !"
   },
   "RoA_A01_M04_VO_S010_005": {
     "type": "VO",
@@ -1110,7 +1110,7 @@
     "unit_id": "ALO",
     "unit_name": "Anduin Lothar",
     "enUS": "The gates are shut. Wilhelm! Danath! Charge!",
-    "frFR": "Les portes sont closes ! Wilhelm, Danath, chargez ! "
+    "frFR": "Les portes sont closes ! Wilhelm, Danath, chargez !"
   },
   "RoA_A01_M04_VO_S012_008": {
     "type": "VO",
@@ -1145,7 +1145,7 @@
     "unit_id": "USC",
     "unit_name": "Utok Scratcher",
     "enUS": "For Doomhammer! For the Bloodscribe Clan!",
-    "frFR": "Pour Doomhammer ! Pour le clan Bloodscribe ! "
+    "frFR": "Pour Doomhammer ! Pour le clan Bloodscribe !"
   },
   "RoA_A01_M04_VO_S014_003": {
     "type": "VO",
@@ -1166,7 +1166,7 @@
     "unit_id": "ALO",
     "unit_name": "Anduin Lothar",
     "enUS": "I’m badly wounded… You need to finish this without my aid, lad…",
-    "frFR": "Je suis gravement blessé... Vous devrez l'achever sans moi... "
+    "frFR": "Je suis gravement blessé... Vous devrez l'achever sans moi..."
   },
   "RoA_A01_M04_VO_S014_006": {
     "type": "VO",
@@ -1180,7 +1180,7 @@
     "unit_id": "ALO",
     "unit_name": "Anduin Lothar",
     "enUS": "Wilhelm! No…",
-    "frFR": "Wilhlem ! Maudites bêtes ! "
+    "frFR": "Wilhlem ! Maudites bêtes !"
   },
   "RoA_A01_M04_VO_S015_002": {
     "type": "VO",

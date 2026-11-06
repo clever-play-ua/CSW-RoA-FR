@@ -399,7 +399,7 @@ Danath Trollbane
 STRING 105
 // Items: IL17 (WC2Human02Danath17), Description (Description)
 {
-Essayez, pour voir ! 
+Essayez, pour voir !
 }
 
 STRING 106
@@ -711,7 +711,7 @@ Capitaine orc
 STRING 171
 // Items: IL40 (WC2Human02OrcCaptain01), Description (Description)
 {
-Ah ! Comme prévu, les elfes puants ont attiré les humains insignifiants. Guerriers, occupez-vous d'eux ! 
+Ah ! Comme prévu, les elfes puants ont attiré les humains insignifiants. Guerriers, occupez-vous d'eux !
 }
 
 STRING 172
@@ -747,7 +747,7 @@ Prisonnier
 STRING 177
 // Items: IL42 (WC2Human02Prisoner02), Description (Description)
 {
-Ces misérables orcs nous obligent à travailler jour et nuit ! 
+Ces misérables orcs nous obligent à travailler jour et nuit !
 }
 
 STRING 178
@@ -765,7 +765,7 @@ Prisonnier
 STRING 180
 // Items: IL43 (WC2Human02Prisoner03), Description (Description)
 {
-Merci, messire ! 
+Merci, messire !
 }
 
 STRING 181
